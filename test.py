@@ -1,8 +1,10 @@
-## reverse
+def func(arr,tar):
+    seen={}
+    for i,ele in enumerate(arr):
+        rem = tar-ele
+        if rem in seen:
+            return (i,seen[rem])
+        else:
+            seen[ele]=i
 
-a =123456
-ans=0
-while a:
-    ans = ans*10+a%10
-    a//=10
-print(ans)
+print(func([2,3,4],6))
