@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/arrAlgorithms_004_Kth_smallest_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrAlgorithms_004_rotate_by_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrAlgorithms_006_leaders_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others_004_prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrAlgorithms_003_missing_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrAlgorithms_003_missing_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
     "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.arrAlgorithms_006_leaders_in_array">
     <configuration name="arrAlgorithms_003_missing_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -182,8 +174,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.arrAlgorithms_006_leaders_in_array" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.arrAlgorithms_004_Kth_smallest_largest" />
         <item itemvalue="Python.arrAlgorithms_004_rotate_by_k" />
         <item itemvalue="Python.arrAlgorithms_003_missing_num" />
