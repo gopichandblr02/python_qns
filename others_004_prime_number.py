@@ -6,7 +6,7 @@ class Solution:
     def __init__(self,num):
         self.num=num
     def traditional(self):
-        for i in range(2,self.num+1):
+        for i in range(2,self.num):
             if self.num%i==0:
                 return 'Not Prime'
             else:

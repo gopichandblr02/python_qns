@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/strAlgorithms_001_reverse_words_in_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortAlgorithms_001_quick_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others_004_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/others_004_prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strAlgorithms_001_reverse_words_in_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/strAlgorithms_001_reverse_words_in_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +61,7 @@
     "Python.others_004_prime_number.executor": "Run",
     "Python.prime_practise.executor": "Debug",
     "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
+    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Run",
     "Python.string_without_repeatiing.executor": "Run",
     "Python.test.executor": "Run",
     "Python.two_sum.executor": "Run",
@@ -66,29 +71,7 @@
     "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.strAlgorithms_001_reverse_words_in_str">
-    <configuration name="arrAlgorithms_004_Kth_smallest_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrAlgorithms_004_Kth_smallest_largest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.strAlgorithms_002_distinct_sub_strings">
     <configuration name="arrAlgorithms_006_leaders_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -155,6 +138,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="strAlgorithms_002_distinct_sub_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -179,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.strAlgorithms_002_distinct_sub_strings" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.strAlgorithms_001_reverse_words_in_str" />
         <item itemvalue="Python.others_005_missing_is_prime" />
         <item itemvalue="Python.arrAlgorithms_006_leaders_in_array" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.arrAlgorithms_004_Kth_smallest_largest" />
       </list>
     </recent_temporary>
   </component>
@@ -217,11 +222,6 @@
           <url>file://$PROJECT_DIR$/arrAlgorithms_006_leaders_in_array.py</url>
           <line>9</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
