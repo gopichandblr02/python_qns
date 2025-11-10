@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet7_max_sub_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DE_system_design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,44 +46,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.arrAlgorithms_002_max_sub_product.executor": "Run",
-    "Python.arrAlgorithms_003_missing_num.executor": "Run",
-    "Python.arrAlgorithms_004_Kth_smallest_largest.executor": "Run",
-    "Python.arrAlgorithms_004_rotate_by_k.executor": "Run",
-    "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
-    "Python.basics.executor": "Run",
-    "Python.basics_geeks_for_geeks.executor": "Run",
-    "Python.c001_array_max_sub_sum.executor": "Run",
-    "Python.gopi.executor": "Run",
-    "Python.leet1_two_sum.executor": "Run",
-    "Python.leet2_stock_prices.executor": "Run",
-    "Python.leet7_max_sub_array.executor": "Run",
-    "Python.max_sub_array.executor": "Run",
-    "Python.others_004_missing_is_prime.executor": "Run",
-    "Python.others_004_prime_number.executor": "Run",
-    "Python.practise.executor": "Run",
-    "Python.prime_practise.executor": "Debug",
-    "Python.scratch.executor": "Run",
-    "Python.sortAlgorithms_001_quick_sort.executor": "Run",
-    "Python.sortAlgorithms_002_merge_sort.executor": "Run",
-    "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
-    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Run",
-    "Python.string_without_repeatiing.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.two_sum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.arrAlgorithms_002_max_sub_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_003_missing_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_004_Kth_smallest_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_004_rotate_by_k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_006_leaders_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_geeks_for_geeks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c001_array_max_sub_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gopi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet1_two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet2_stock_prices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet7_max_sub_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_sub_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.others_004_missing_is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.others_004_prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_practise.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortAlgorithms_001_quick_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortAlgorithms_002_merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strAlgorithms_001_reverse_words_in_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strAlgorithms_002_distinct_sub_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_without_repeatiing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gopichandjangili/Desktop/Python/python_qns&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.leet7_max_sub_array">
     <configuration name="leet2_stock_prices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
