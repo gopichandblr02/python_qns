@@ -1,7 +1,34 @@
-arr=[16, 17, 4, 3, 5, 2]
+a=[1,2,5,3]
+b=reversed(a)
+c=sorted(a)
+print(b)
+print(c,''.join(map(str,c)))
 
-a = arr[-1:0:-1]
-print(a)
+
+# 1;2;3
+
+
+
+# class Solution:
+#     def __init__(self,arr):
+#         self.arr,self.len=arr,len(arr)
+#     def leaders_optimal(self):
+#         right_most =self.arr[-1]
+#         leaders = [right_most]
+#         for i in range(self.len-2,-1,-1):
+#             if self.arr[i]>right_most:
+#                 leaders.append(self.arr[i])
+#             right_most = max(right_most,self.arr[i])
+#         return list(reversed(leaders))
+#
+# arr=[16, 17, 4, 3, 5, 2]
+# sol=Solution(arr)
+# print(sol.leaders_optimal())  # [17, 5, 2]
+
+# arr=[16, 17, 4, 3, 5, 2]
+#
+# a = arr[-1:0:-1]
+# print(a)
 
 
 

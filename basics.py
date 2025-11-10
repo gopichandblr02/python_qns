@@ -20,9 +20,13 @@ for x in [1,2,8]:
 # 1
 # 2
 # 8
+
+# Default separator is space
 a=[1,2,3]
 print(*a,sep=";")
 # 1;2;3
+
+# By default end is \n for loops
 for x in a:
     print(x,end=",")
 # 1,2,3,
