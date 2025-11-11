@@ -1,8 +1,22 @@
-a=[1,2,5,3]
-b=reversed(a)
-c=sorted(a)
-print(b)
-print(c,''.join(map(str,c)))
+class Solution:
+    flag = -1 if x < 0 else 1
+    x = abs(x)
+    y = 0
+    while x:
+        y = y * 10 + int(x % 10)
+        x = x // 10
+    return y * flag
+
+sol=Solution()
+print(sol.reverse(123))
+
+
+
+# a=[1,2,5,3]
+# b=reversed(a)
+# c=sorted(a)
+# print(b)
+# print(c,''.join(map(str,c)))
 
 
 # 1;2;3

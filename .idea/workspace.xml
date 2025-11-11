@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leet10_reverse_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,45 +44,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.arrAlgorithms_002_max_sub_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_003_missing_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_Kth_smallest_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_rotate_by_k.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_006_leaders_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_geeks_for_geeks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.c001_array_max_sub_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gopi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet1_two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet2_stock_prices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet7_max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_missing_is_prime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_practise.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortAlgorithms_001_quick_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortAlgorithms_002_merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_001_reverse_words_in_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_002_distinct_sub_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_without_repeatiing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gopichandjangili/Desktop/Python/python_qns&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arrAlgorithms_002_max_sub_product.executor": "Run",
+    "Python.arrAlgorithms_003_missing_num.executor": "Run",
+    "Python.arrAlgorithms_004_Kth_smallest_largest.executor": "Run",
+    "Python.arrAlgorithms_004_rotate_by_k.executor": "Run",
+    "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.basics_geeks_for_geeks.executor": "Run",
+    "Python.c001_array_max_sub_sum.executor": "Run",
+    "Python.gopi.executor": "Run",
+    "Python.leet10_reverse_integer.executor": "Run",
+    "Python.leet1_two_sum.executor": "Run",
+    "Python.leet2_stock_prices.executor": "Run",
+    "Python.leet7_max_sub_array.executor": "Run",
+    "Python.max_sub_array.executor": "Run",
+    "Python.others_004_missing_is_prime.executor": "Run",
+    "Python.others_004_prime_number.executor": "Run",
+    "Python.practise.executor": "Run",
+    "Python.prime_practise.executor": "Debug",
+    "Python.scratch.executor": "Run",
+    "Python.sortAlgorithms_001_quick_sort.executor": "Run",
+    "Python.sortAlgorithms_002_merge_sort.executor": "Run",
+    "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
+    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Run",
+    "Python.string_without_repeatiing.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.test">
+}]]></component>
+  <component name="RunManager" selected="Python.leet10_reverse_integer">
+    <configuration name="leet10_reverse_integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet10_reverse_integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="leet2_stock_prices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -145,28 +172,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -191,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leet10_reverse_integer" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.leet7_max_sub_array" />
         <item itemvalue="Python.leet2_stock_prices" />
         <item itemvalue="Python.practise" />
-        <item itemvalue="Python.scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +257,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test.py</url>
-          <line>17</line>
+          <line>31</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
