@@ -1,14 +1,19 @@
-class Solution:
-    flag = -1 if x < 0 else 1
-    x = abs(x)
-    y = 0
-    while x:
-        y = y * 10 + int(x % 10)
-        x = x // 10
-    return y * flag
 
-sol=Solution()
-print(sol.reverse(123))
+xx=[0,1,0,3,12]
+y=[x for x in xx if x>0]
+
+print(y)
+# class Solution:
+#     flag = -1 if x < 0 else 1
+#     x = abs(x)
+#     y = 0
+#     while x:
+#         y = y * 10 + int(x % 10)
+#         x = x // 10
+#     return y * flag
+#
+# sol=Solution()
+# print(sol.reverse(123))
 
 
 
