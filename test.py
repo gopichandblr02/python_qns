@@ -1,8 +1,37 @@
+arr=[-1,0,1,2,-1,-4]
+class Solution:
+    def three_sum(self,arr):
+        arr.sort()
+        n=len(arr)
+        res=[]
+        for i in range(n-2):
+            if i>0 and arr[i]==arr[i-1]:
+                continue
+            left=i+1
+            right=n-1
+            while left<right:
+                s = arr[i]+arr[left]+arr[right]
+                if s==0:
+                    res.append([arr[i],arr[left],arr[right]])
+                    left+=1
+                    right-=1
+                    while left<right and arr[left]==arr[left-1]:
+                        left+=1
+                    while left<right and arr[right]==arr[right+1]:
+                        right-=1
+                elif s<0:
+                    left += 1
+                else:
+                    right -= 1
+        return res
+sol=Solution()
+print(sol.three_sum(arr))
 
-xx=[0,1,0,3,12]
-y=[x for x in xx if x>0]
 
-print(y)
+
+
+
+
 # class Solution:
 #     flag = -1 if x < 0 else 1
 #     x = abs(x)
