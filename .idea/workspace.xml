@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet47_palindrom_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet50_merge_two_sorted_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_001_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e1_get_second_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2_third_lar_distinct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e3_reverse_an_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet41_first_bad_version.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +56,13 @@
     "Python.arrAlgorithms_004_rotate_by_k.executor": "Run",
     "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
     "Python.basics.executor": "Run",
+    "Python.basics_001_binary_search.executor": "Run",
+    "Python.basics_002_first_occr_in_duplicates.executor": "Run",
     "Python.basics_geeks_for_geeks.executor": "Run",
     "Python.c001_array_max_sub_sum.executor": "Run",
+    "Python.e1_get_second_largest.executor": "Run",
+    "Python.e2_third _lar_distinct.executor": "Run",
+    "Python.e3_reverse_an_array.executor": "Run",
     "Python.gopi.executor": "Run",
     "Python.leet10_reverse_integer.executor": "Run",
     "Python.leet12_move_zeros.executor": "Run",
@@ -88,8 +97,8 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.leet47_palindrom_number">
-    <configuration name="leet17_product_of_array_except_self" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.e3_reverse_an_array">
+    <configuration name="basics_001_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet17_product_of_array_except_self.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_001_binary_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet3_3sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basics_002_first_occr_in_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet3_3sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet47_palindrom_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="e1_get_second_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet47_palindrom_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e1_get_second_largest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="miscellaneous_qns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="e2_third_lar_distinct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miscellaneous_qns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e2_third_lar_distinct.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="e3_reverse_an_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e3_reverse_an_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leet47_palindrom_number" />
-        <item itemvalue="Python.leet17_product_of_array_except_self" />
-        <item itemvalue="Python.miscellaneous_qns" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.leet3_3sum" />
+        <item itemvalue="Python.e3_reverse_an_array" />
+        <item itemvalue="Python.e2_third_lar_distinct" />
+        <item itemvalue="Python.e1_get_second_largest" />
+        <item itemvalue="Python.basics_002_first_occr_in_duplicates" />
+        <item itemvalue="Python.basics_001_binary_search" />
       </list>
     </recent_temporary>
   </component>
