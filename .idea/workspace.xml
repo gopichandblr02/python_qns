@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basics_001_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e1_get_second_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2_third_lar_distinct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e3_reverse_an_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet41_first_bad_version.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +70,7 @@
     "Python.max_sub_array.executor": "Run",
     "Python.others_004_missing_is_prime.executor": "Run",
     "Python.others_004_prime_number.executor": "Run",
-    "Python.practise.executor": "Run",
+    "Python.practise.executor": "Debug",
     "Python.prime_practise.executor": "Debug",
     "Python.scratch.executor": "Run",
     "Python.simple_qns.executor": "Debug",
@@ -97,8 +92,8 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.e3_reverse_an_array">
-    <configuration name="basics_001_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.practise">
+    <configuration name="arrAlgorithms_002_max_sub_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,29 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_001_binary_search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="basics_002_first_occr_in_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrAlgorithms_002_max_sub_product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,13 +181,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="practise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practise" />
+        <item itemvalue="Python.arrAlgorithms_002_max_sub_product" />
         <item itemvalue="Python.e3_reverse_an_array" />
         <item itemvalue="Python.e2_third_lar_distinct" />
         <item itemvalue="Python.e1_get_second_largest" />
-        <item itemvalue="Python.basics_002_first_occr_in_duplicates" />
-        <item itemvalue="Python.basics_001_binary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +278,11 @@
           <url>file://$PROJECT_DIR$/leet17_product_of_array_except_self.py</url>
           <line>3</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practise.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
