@@ -15,6 +15,7 @@ for x in [1,2,8]:
 # 2
 # 8
 
+# sep wont work for loops, it works for unpacking
 for x in [1,2,8]:
     print(x,sep=";")
 # 1
