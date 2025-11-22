@@ -1,15 +1,51 @@
-class Solution:
-    def func(self,strs):
-        pref=strs[0]
-        for x in strs[1:]:
-            while not x.startswith(pref):
-                pref=pref[:-1]
-        return pref
+class Node:
+    def __init__(self, val):
+        self.val = val
+        self.left = None
+        self.right = None
+
+def count_nodes(root):
+    if not root:           # base case
+        return 0
+    return 1 + count_nodes(root.left) + count_nodes(root.right)
+
+# Example tree
+root = Node(1)
+root.left = Node(2)
+root.right = Node(3)
+print(count_nodes(root))  # 3
 
 
-strs = ["flower","flow","flight"]
-sol = Solution()
-print(sol.func(strs))
+# class Solution:
+#     def binary_search(self,nums,tar):
+#         start=0
+#         end=len(nums)-1
+#         while start<=end:
+#             mid=(start+end)//2
+#             if tar==nums[mid]:
+#                 return mid
+#             elif nums[mid]<tar:
+#                 start=mid+1
+#             else:
+#                 end=mid-1
+#         return -1
+#
+#
+# nums = [1, 3, 5, 7, 9, 12]
+# print(Solution().binary_search(nums, 7))   # 3
+
+# class Solution:
+#     def func(self,strs):
+#         pref=strs[0]
+#         for x in strs[1:]:
+#             while not x.startswith(pref):
+#                 pref=pref[:-1]
+#         return pref
+#
+#
+# strs = ["flower","flow","flight"]
+# sol = Solution()
+# print(sol.func(strs))
 
 
 # arr=[-1,0,1,2,-1,-4]
