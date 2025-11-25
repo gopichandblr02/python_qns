@@ -12,6 +12,7 @@ A binary tree is a hierarchical structure made of nodes, where:
 1. Each node contains data
 2. Each node can have 0, 1, or 2 children
 3. The topmost node is called the root
+4. An edge in a binary tree is the link or connection between a parent node and its child node
 
 ```
          10
