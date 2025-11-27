@@ -8,6 +8,17 @@ def printSubStrings(str):
 
     return list(set(my_list))
 
+def distinct_substrings(s):
+    result = set()
+    n = len(s)
+    for i in range(n):
+        for j in range(i + 1, n + 1):
+            result.add(s[i:j])
+    return result
+
+
+
+
 
 
 
@@ -15,3 +26,6 @@ def printSubStrings(str):
 if __name__ == '__main__':
     str = "aaabc"
     print(printSubStrings(str))
+    # Example
+    print(distinct_substrings("abc"))
+    # {'a', 'b', 'c', 'ab', 'bc', 'abc'}

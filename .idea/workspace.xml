@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet_longest_str_non_rpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet31_next_permutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_001_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_001_binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortAlgorithms_001_quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithms_001_quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_without_repeatiing.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +47,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.arrAlgorithms_002_max_sub_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_003_missing_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_Kth_smallest_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_rotate_by_k.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_006_leaders_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_001_binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_002_first_occr_in_duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_geeks_for_geeks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.c001_array_max_sub_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e1_get_second_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e2_third _lar_distinct.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e3_reverse_an_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gopi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet10_reverse_integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet12_move_zeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet17_product_of_array_except_self.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet1_two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet2_stock_prices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet3_3sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet47_palindrom_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet7_max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_longest_str_non_rpt.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_missing_is_prime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practise.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.prime_practise.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_qns.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sortAlgorithms_001_quick_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortAlgorithms_002_merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_001_reverse_words_in_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_002_distinct_sub_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_without_repeatiing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gopichandjangili/Desktop/Python/python_qns&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arrAlgorithms_002_max_sub_product.executor": "Run",
+    "Python.arrAlgorithms_003_missing_num.executor": "Run",
+    "Python.arrAlgorithms_004_Kth_smallest_largest.executor": "Run",
+    "Python.arrAlgorithms_004_rotate_by_k.executor": "Run",
+    "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.basics005_word_freq.executor": "Debug",
+    "Python.basics_001_binary_search.executor": "Run",
+    "Python.basics_002_first_occr_in_duplicates.executor": "Run",
+    "Python.basics_geeks_for_geeks.executor": "Run",
+    "Python.basics_recursion.executor": "Run",
+    "Python.c001_array_max_sub_sum.executor": "Run",
+    "Python.e1_get_second_largest.executor": "Run",
+    "Python.e2_third _lar_distinct.executor": "Run",
+    "Python.e3_reverse_an_array.executor": "Run",
+    "Python.gopi.executor": "Run",
+    "Python.leet1002_find_common_characters.executor": "Debug",
+    "Python.leet1047_remove_adjacent_dup_chars.executor": "Run",
+    "Python.leet10_reverse_integer.executor": "Run",
+    "Python.leet12_move_zeros.executor": "Run",
+    "Python.leet17_product_of_array_except_self.executor": "Run",
+    "Python.leet1_two_sum.executor": "Run",
+    "Python.leet2_stock_prices.executor": "Run",
+    "Python.leet3_3sum.executor": "Run",
+    "Python.leet47_palindrom_number.executor": "Run",
+    "Python.leet7_max_sub_array.executor": "Run",
+    "Python.leet_longest_str_non_rpt.executor": "Debug",
+    "Python.max_sub_array.executor": "Run",
+    "Python.others_004_missing_is_prime.executor": "Run",
+    "Python.others_004_prime_number.executor": "Run",
+    "Python.practise.executor": "Debug",
+    "Python.prime_practise.executor": "Debug",
+    "Python.scratch.executor": "Run",
+    "Python.simple_qns.executor": "Debug",
+    "Python.sortAlgorithms_001_quick_sort.executor": "Run",
+    "Python.sortAlgorithms_002_merge_sort.executor": "Run",
+    "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
+    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Debug",
+    "Python.string_without_repeatiing.executor": "Run",
+    "Python.test.executor": "Debug",
+    "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.leet_longest_str_non_rpt">
-    <configuration name="arrAlgorithms_002_max_sub_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.leet1047_remove_adjacent_dup_chars">
+    <configuration name="basics005_word_freq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrAlgorithms_002_max_sub_product.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics005_word_freq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leet1047_remove_adjacent_dup_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leet_longest_str_non_rpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet_longest_str_non_rpt.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strAlgorithms_001_reverse_words_in_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strAlgorithms_001_reverse_words_in_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strAlgorithms_002_distinct_sub_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leet_longest_str_non_rpt" />
-        <item itemvalue="Python.basics" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.practise" />
-        <item itemvalue="Python.arrAlgorithms_002_max_sub_product" />
+        <item itemvalue="Python.leet1047_remove_adjacent_dup_chars" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.strAlgorithms_002_distinct_sub_strings" />
+        <item itemvalue="Python.strAlgorithms_001_reverse_words_in_str" />
+        <item itemvalue="Python.basics005_word_freq" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +276,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test.py</url>
-          <line>97</line>
+          <line>115</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -287,6 +293,36 @@
           <url>file://$PROJECT_DIR$/practise.py</url>
           <line>10</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet1002_find_common_characters.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basics005_word_freq.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
