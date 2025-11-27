@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet31_next_permutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortAlgorithms_001_quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortAlgorithms_001_quick_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_without_repeatiing.py" beforeDir="false" />
-    </list>
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +65,7 @@
     "Python.leet17_product_of_array_except_self.executor": "Run",
     "Python.leet1_two_sum.executor": "Run",
     "Python.leet2_stock_prices.executor": "Run",
+    "Python.leet31_next_permutation.executor": "Run",
     "Python.leet3_3sum.executor": "Run",
     "Python.leet47_palindrom_number.executor": "Run",
     "Python.leet7_max_sub_array.executor": "Run",
@@ -102,29 +96,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.leet1047_remove_adjacent_dup_chars">
-    <configuration name="basics005_word_freq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics005_word_freq.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.leet31_next_permutation">
     <configuration name="leet1047_remove_adjacent_dup_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -139,6 +111,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leet31_next_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet31_next_permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leet31_next_permutation" />
         <item itemvalue="Python.leet1047_remove_adjacent_dup_chars" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.strAlgorithms_002_distinct_sub_strings" />
         <item itemvalue="Python.strAlgorithms_001_reverse_words_in_str" />
-        <item itemvalue="Python.basics005_word_freq" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +317,21 @@
           <url>file://$PROJECT_DIR$/strAlgorithms_002_distinct_sub_strings.py</url>
           <line>14</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -20,7 +20,15 @@ class Solution:
             max_sum = max(max_sum,cur_sum)
         return max_sum
 
+    def single_loop_other(self):
+        cur_sum=self.arr[0]
+        max_sum=self.arr[0]
+        for x in self.arr[1:]:
+            cur_sum=max(x,x+cur_sum)
+            max_sum=max(cur_sum,max_sum)
+        return max_sum
+
 sol = Solution(numbers)
 
-print("two loops: ",sol.two_loops(),"single loop:",sol.single_loop())
+print("two loops: ",sol.two_loops(),"single loop:",sol.single_loop(),"single loop other:",sol.single_loop_other())
 # two loops:  6 single loop: 6
