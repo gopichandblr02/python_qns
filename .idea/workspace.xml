@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_112_path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_00050_merge_two_sorted_lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrAlgorithms_001_max_sub_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_53_max_sub_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrAlgorithms_002_max_sub_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_152_max_sub_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet1_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_1_two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet2_stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_121_stock_prices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_15_3sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_15_three_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet1002_find_common_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_1002_find_common_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_1047_remove_adjacent_dup_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet47_palindrom_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00047_palindrom_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet50_merge_two_sorted_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00002_add_two_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_112_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00112_path_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_121_stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000121_stock_prices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_14_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00014_longest_common_prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_152_max_sub_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000152_max_sub_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_15_three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00015_three_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_189_rotate_array_by_k.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000189_rotate_array_by_k.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_1_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00001_two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_268_missing_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000268_missing_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_278_first_bad_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000278_first_bad_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_283_move_zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000283_move_zeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_31_next_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00031_next_permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_53_max_sub_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00053_max_sub_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_7_reverse_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00007_reverse_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00003_longest_str_non_rpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others_001_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00049_anagrams.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +92,7 @@
     "Python.leet3_3sum.executor": "Run",
     "Python.leet47_palindrom_number.executor": "Run",
     "Python.leet7_max_sub_array.executor": "Run",
+    "Python.leetCode_00002_add_two_nums.executor": "Run",
     "Python.leetCode_189_rotate_array_by_k.executor": "Run",
     "Python.leetCode_268_missing_num.executor": "Run",
     "Python.leet_longest_str_non_rpt.executor": "Debug",
@@ -107,8 +122,8 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.leetCode_189_rotate_array_by_k">
-    <configuration name="leet31_next_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leetCode_00002_add_two_nums">
+    <configuration name="leetCode_00002_add_two_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leet31_next_permutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00002_add_two_nums.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_189_rotate_array_by_k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetCode_000189_rotate_array_by_k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_189_rotate_array_by_k.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_000189_rotate_array_by_k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_268_missing_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetCode_000268_missing_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_268_missing_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_000268_missing_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_53_max_sub_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetCode_00053_max_sub_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_53_max_sub_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00053_max_sub_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetCode_189_rotate_array_by_k" />
-        <item itemvalue="Python.leetCode_53_max_sub_sum" />
-        <item itemvalue="Python.leetCode_268_missing_num" />
+        <item itemvalue="Python.leetCode_00002_add_two_nums" />
+        <item itemvalue="Python.leetCode_000189_rotate_array_by_k" />
+        <item itemvalue="Python.leetCode_00053_max_sub_sum" />
+        <item itemvalue="Python.leetCode_000268_missing_num" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.leet31_next_permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +325,7 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leet1002_find_common_characters.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_1002_find_common_characters.py</url>
           <line>26</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
@@ -330,22 +345,22 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
           <line>39</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
           <line>24</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leet31_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
           <line>20</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_189_rotate_array_by_k.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_000189_rotate_array_by_k.py</url>
           <line>7</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
