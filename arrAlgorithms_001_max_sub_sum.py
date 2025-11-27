@@ -29,6 +29,8 @@ class Solution:
         return max_sum
 
 sol = Solution(numbers)
-
+sol1 = Solution([20, 1, -3, 4, -1, 2, 1, -5, 4])
+sol11 = Solution([20, 1, -3, 4, -1, 2, 1, -5, 4])
 print("two loops: ",sol.two_loops(),"single loop:",sol.single_loop(),"single loop other:",sol.single_loop_other())
+print(sol1.single_loop(),sol11.single_loop_other())
 # two loops:  6 single loop: 6
