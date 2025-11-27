@@ -28,6 +28,20 @@ class Solution:
             xor_sum=xor_sum^x
         return xor_sum
 
+    # ✅ 1. Best Overall Solution — XOR (O(n) time, O(1) space)
+    def missingNumber(self):
+        arr=self.arr+[0]
+        xor = len(arr)
+        for i, num in enumerate(arr):
+            # xor ^= i ^ num
+            xor=xor^(i^num)
+        return xor
+    # ✅ 2. Sum Formula (Also O(n), O(1) space)
+    def missingNumberAP(self):
+        n = len(self.arr)
+        return (n+2) * (n + 1) // 2 - sum(self.arr)
+        # If we dont have zero
+        # return n * (n + 1) // 2 - sum(self.arr)
 
 
 if __name__ == "__main__":
@@ -36,5 +50,18 @@ if __name__ == "__main__":
   print(sol.missingNumber())            # 4
   print(sol.missingNumberSecond())      # 4
   print(sol.arithmeticProgression())      # 4
-
   print('using xor:',sol.using_xor())      # using xor: 4
+  print('using xor optimized:',sol.missingNumber(),sol.missingNumber_2())      # using xor: 4
+  print('AP:',sol.missingNumberAP())      # using xor: 4
+
+  """
+  Why XOR?
+    -> a ^ a = 0
+    -> a ^ 0 = a
+    XOR cancels out duplicates.
+    XOR all numbers from 0..n and XOR all elements of the array → only missing number remains.
+  """
+
+  print(4 ^ 2)
+  print(2 ^ 0)
+  print(2 ^ 2)
