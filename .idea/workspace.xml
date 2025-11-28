@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_00050_merge_two_sorted_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet1002_find_common_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_1002_find_common_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet1047_remove_adjacent_dup_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_1047_remove_adjacent_dup_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet47_palindrom_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00047_palindrom_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet50_merge_two_sorted_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00002_add_two_nums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_112_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00112_path_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_121_stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000121_stock_prices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_14_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00014_longest_common_prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_152_max_sub_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000152_max_sub_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_15_three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00015_three_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_189_rotate_array_by_k.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000189_rotate_array_by_k.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_1_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00001_two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_268_missing_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000268_missing_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_278_first_bad_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000278_first_bad_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_283_move_zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000283_move_zeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_31_next_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00031_next_permutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_53_max_sub_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00053_max_sub_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_7_reverse_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00007_reverse_integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00003_longest_str_non_rpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/others_001_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00049_anagrams.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

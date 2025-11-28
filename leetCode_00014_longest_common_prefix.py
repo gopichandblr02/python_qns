@@ -4,6 +4,8 @@ class Solution:
         for x in strs[1:]:
             while not x.startswith(pref):
                 pref = pref[:-1]
+                if not pref:
+                    return ""
         return pref
 
 
