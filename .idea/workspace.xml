@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Read_000_core_vs_advanced_DS_BigO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_0000_linked_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics001_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_001_binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics002_first_occr_in_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics003_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_003_recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics004_recursion_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_004_recursion_iteration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics005_word_freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_005_word_freq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00003_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00003_longest_str_non_rpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_1002_find_common_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_001002_find_common_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_1047_remove_adjacent_dup_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_001047_remove_adjacent_dup_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_209_min_size_subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000209_min_size_subarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list_practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_010linked_list_practise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/longest_nonrepeating_substring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/max_sub_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/max_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others_002_two_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others_003_reverse_integer_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/others_004_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_006_prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/others_005_missing_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_007_missing_is_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_011_min_sub_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read01_general_basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Read_001_general_basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read02_DE_system_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/Read_002_DE_system_design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read03_tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/Read_003_tips.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +101,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.editor"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -122,6 +109,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.basics_011_min_sub_array">
     <configuration name="basics_011_min_sub_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
