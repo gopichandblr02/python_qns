@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leetCode_209_min_size_subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,66 +43,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.arrAlgorithms_001_max_sub_sum.executor": "Run",
-    "Python.arrAlgorithms_002_max_sub_product.executor": "Run",
-    "Python.arrAlgorithms_003_missing_num.executor": "Run",
-    "Python.arrAlgorithms_004_Kth_smallest_largest.executor": "Run",
-    "Python.arrAlgorithms_004_rotate_by_k.executor": "Debug",
-    "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
-    "Python.basics.executor": "Run",
-    "Python.basics005_word_freq.executor": "Debug",
-    "Python.basics_001_binary_search.executor": "Run",
-    "Python.basics_002_first_occr_in_duplicates.executor": "Run",
-    "Python.basics_geeks_for_geeks.executor": "Run",
-    "Python.basics_recursion.executor": "Run",
-    "Python.c001_array_max_sub_sum.executor": "Run",
-    "Python.e1_get_second_largest.executor": "Run",
-    "Python.e2_third _lar_distinct.executor": "Run",
-    "Python.e3_reverse_an_array.executor": "Run",
-    "Python.gopi.executor": "Run",
-    "Python.leet1002_find_common_characters.executor": "Debug",
-    "Python.leet1047_remove_adjacent_dup_chars.executor": "Run",
-    "Python.leet10_reverse_integer.executor": "Run",
-    "Python.leet12_move_zeros.executor": "Run",
-    "Python.leet17_product_of_array_except_self.executor": "Run",
-    "Python.leet1_two_sum.executor": "Run",
-    "Python.leet2_stock_prices.executor": "Run",
-    "Python.leet31_next_permutation.executor": "Run",
-    "Python.leet3_3sum.executor": "Run",
-    "Python.leet47_palindrom_number.executor": "Run",
-    "Python.leet7_max_sub_array.executor": "Run",
-    "Python.leetCode_00002_add_two_nums.executor": "Run",
-    "Python.leetCode_189_rotate_array_by_k.executor": "Run",
-    "Python.leetCode_268_missing_num.executor": "Run",
-    "Python.leet_longest_str_non_rpt.executor": "Debug",
-    "Python.max_sub_array.executor": "Run",
-    "Python.others_004_missing_is_prime.executor": "Run",
-    "Python.others_004_prime_number.executor": "Run",
-    "Python.practise.executor": "Debug",
-    "Python.prime_practise.executor": "Debug",
-    "Python.scratch.executor": "Run",
-    "Python.simple_qns.executor": "Debug",
-    "Python.sortAlgorithms_001_quick_sort.executor": "Run",
-    "Python.sortAlgorithms_002_merge_sort.executor": "Run",
-    "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
-    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Debug",
-    "Python.string_without_repeatiing.executor": "Run",
-    "Python.test.executor": "Debug",
-    "Python.two_sum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.arrAlgorithms_001_max_sub_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_002_max_sub_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_003_missing_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_004_Kth_smallest_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrAlgorithms_004_rotate_by_k.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.arrAlgorithms_006_leaders_in_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics005_word_freq.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.basics_001_binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_002_first_occr_in_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_geeks_for_geeks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c001_array_max_sub_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e1_get_second_largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e2_third _lar_distinct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e3_reverse_an_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gopi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet1002_find_common_characters.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.leet1047_remove_adjacent_dup_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet10_reverse_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet12_move_zeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet17_product_of_array_except_self.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet1_two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet2_stock_prices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet31_next_permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet3_3sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet47_palindrom_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet7_max_sub_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leetCode_00002_add_two_nums.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leetCode_189_rotate_array_by_k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leetCode_268_missing_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leet_longest_str_non_rpt.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.max_sub_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.others_004_missing_is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.others_004_prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practise.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.prime_practise.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_qns.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sortAlgorithms_001_quick_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortAlgorithms_002_merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strAlgorithms_001_reverse_words_in_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strAlgorithms_002_distinct_sub_strings.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.string_without_repeatiing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gopichandjangili/Desktop/Python/python_qns&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.leetCode_00002_add_two_nums">
     <configuration name="leetCode_00002_add_two_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
