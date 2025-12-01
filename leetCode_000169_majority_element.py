@@ -19,15 +19,18 @@ class Solution:
 
     # ✔ Time: O(n)
     # ❌ Space: O(n)
-    class Solution:
-        def majority_Element(self, nums):
-            freq = {}
-            for n in nums:
-                freq[n] = freq.get(n, 0) + 1
-                if freq[n] > len(nums) // 2:
-                    return n
+    def majority_Element(self, nums):
+        freq = {}
+        for n in nums:
+            freq[n] = freq.get(n, 0) + 1
+            if freq[n] > len(nums) // 2:
+                return n
 
 
 print(Solution().majorityElement([3,3,2]))
-# print(Solution().majorityElement([3,2,3]))
-# print(Solution().majorityElement(nums))
+print(Solution().majorityElement([3,2,3]))
+print(Solution().majorityElement(nums))
+
+print(Solution().majority_Element([3,3,2]))
+print(Solution().majority_Element([3,2,3]))
+print(Solution().majority_Element(nums))

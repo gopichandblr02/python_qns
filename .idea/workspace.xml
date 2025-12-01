@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basics_Big_O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode_00028_first_index_first_occur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +76,7 @@
     "Python.leetCode_00002_add_two_nums.executor": "Run",
     "Python.leetCode_00027_remove_element.executor": "Run",
     "Python.leetCode_00027_remove_element_all_occur.executor": "Debug",
+    "Python.leetCode_00028_first_index_first_occur.executor": "Run",
     "Python.leetCode_169_majority_element.executor": "Debug",
     "Python.leetCode_189_rotate_array_by_k.executor": "Run",
     "Python.leetCode_209_min_size_subarray.executor": "Debug",
