@@ -14,7 +14,7 @@
 """
 
 # Here if we use remove, it will re-index and we will miss a few elements
-# Remove vs pop in lists
+
 
 class Sol:
     def remove_element(self,nums,val):
@@ -27,4 +27,17 @@ class Sol:
 
 # print(Sol().remove_element([3,2,2,3],3))
 print(Sol().remove_element([0,1,2,2,3,0,4,2],2))
+
+# Remove vs pop in lists
+
+"""
+| Feature          | `remove()`           | `pop()`                                       |
+| ---------------- | -------------------- | --------------------------------------------- |
+| Removes by       | **value**            | **index**                                     |
+| Returns          | **Nothing (`None`)** | **Removed element**                           |
+| Errors if        | Value not found      | Index out of range                            |
+| Default behavior | —                    | Removes **last element**                      |
+| Time complexity  | **O(n)**             | **O(1)** for last element, **O(n)** otherwise |
+| Mutates list?    | Yes                  | Yes                                           |
+"""
 
