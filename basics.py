@@ -1,3 +1,4 @@
+import re
 # The concept of a Python function returning another function is known as a closure
 
 """
@@ -159,3 +160,21 @@ print(10,20,30,sep=";")
 # Output
 #10;20;30
 
+inp = "A man, a plan, a canal: Panama"
+out=inp.replace(",","").replace(" ","").replace(":","").lower()
+print(out)
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        s = re.sub(r'[^a-zA-Z0-9 ]', ' ', s).replace(" ","").lower()
+        i=0
+        end=len(s)
+        check=(len(s)//2)-1
+        while i <=check:
+            if s[i]==s[end-i-1]:
+                i+=1
+            elif s[i]!=s[end-i-1]:
+                return False
+        return True
+
+print(Solution().isPalindrome("A man, a plan, a canal: Panama"))
