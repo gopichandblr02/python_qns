@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_169_majority_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_Big_O.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_00028_first_index_first_occur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +77,7 @@
     "Python.leet7_max_sub_array.executor": "Run",
     "Python.leetCode_00002_add_two_nums.executor": "Run",
     "Python.leetCode_00027_remove_element.executor": "Run",
+    "Python.leetCode_00027_remove_element_all_occur.executor": "Debug",
     "Python.leetCode_169_majority_element.executor": "Debug",
     "Python.leetCode_189_rotate_array_by_k.executor": "Run",
     "Python.leetCode_209_min_size_subarray.executor": "Debug",
@@ -112,7 +114,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetCode_000169_majority_element">
+  <component name="RunManager" selected="Python.leetCode_00028_first_index_first_occur">
     <configuration name="basics_011_min_sub_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -127,28 +129,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_011_min_sub_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="leetCode_00002_add_two_nums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00002_add_two_nums.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,13 +203,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="leetCode_00028_first_index_first_occur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00028_first_index_first_occur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetCode_000169_majority_element" />
+        <item itemvalue="Python.leetCode_00028_first_index_first_occur" />
         <item itemvalue="Python.leetCode_00027_remove_element_all_occur" />
+        <item itemvalue="Python.leetCode_000169_majority_element" />
         <item itemvalue="Python.basics_011_min_sub_array" />
         <item itemvalue="Python.leetCode_000209_min_size_subarray" />
-        <item itemvalue="Python.leetCode_00002_add_two_nums" />
       </list>
     </recent_temporary>
   </component>
@@ -365,12 +367,12 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00027_remove_element.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_00027_remove_element_all_occur.py</url>
           <line>21</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_169_majority_element.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_000169_majority_element.py</url>
           <line>13</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
