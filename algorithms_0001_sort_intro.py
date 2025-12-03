@@ -2,10 +2,11 @@
 🔥 Sorting in Python — Introduction
 Sorting means arranging data in a specific order (ascending or descending).
 Example:"""
-
 nums = [5, 3, 8, 1]
 sorted_nums = sorted(nums)
 # [1, 3, 5, 8]
+print(sorted('abdc'))
+['a', 'b', 'c', 'd']
 
 """
 Sorting helps in:
@@ -15,27 +16,77 @@ Sorting helps in:
 4. Grouping, merging, optimization tasks
 """
 
+# 2. Removing duplicates -> Example
+arr = [4, 1, 7, 1, 4, 2]
+arr.sort()
+
+result = []
+for num in arr:
+    if not result or result[-1] != num:
+        result.append(num)
+
+print(result)  # [1, 2, 4, 7]
 
 # *************
 """
 Binary Search is a fast searching algorithm used to find an element in a sorted array or list.
 It works by repeatedly dividing the search interval in half — this gives it a time complexity of O(log n), which is 
-uch faster than linear search (O(n)).
+much faster than linear search (O(n)).
 """
 
 # 🚀 How Binary Search Works
 # Start with two pointers:
+nums=[1, 2, 4, 7]
+n=len(nums)
 left = 0
 right = n - 1
 # Find the middle index:
 mid=(left+right)//2
 """Compare the target value with arr[mid]:
-
 If equal → found
 If target < arr[mid] → search left half
 If target > arr[mid] → search right half
 
 Continue until left > right."""
+
+# ✅ Iterative Binary Search — Python
+
+def binary_search(arr, target):
+    left, right = 0, len(arr) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        # Check middle element
+        if arr[mid] == target:
+            return mid
+        # If target is greater, ignore left half
+        elif arr[mid] < target:
+            left = mid + 1
+        # If target is smaller, ignore right half
+        else:
+            right = mid - 1
+    return -1   # Not found
+arr = [1, 3, 5, 7, 9, 12, 15]
+target = 9
+print(binary_search(arr, target))   # Output: 4
+
+
+# ✅ Recursive Binary Search — Python
+def binary_search_recursive(arr, target, left, right):
+    if left > right:
+        return -1
+
+    mid = (left + right) // 2
+
+    if arr[mid] == target:
+        return mid
+    elif arr[mid] < target:
+        return binary_search_recursive(arr, target, mid + 1, right)
+    else:
+        return binary_search_recursive(arr, target, left, mid - 1)
+
+arr = [2, 4, 6, 8, 10, 12]
+print(binary_search_recursive(arr, 8, 0, len(arr)-1))   # Output: 3
+
 
 # ✅ Example
 # Array must be sorted:
