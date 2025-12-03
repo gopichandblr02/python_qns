@@ -15,6 +15,69 @@ Sorting helps in:
 4. Grouping, merging, optimization tasks
 """
 
+
+# *************
+"""
+Binary Search is a fast searching algorithm used to find an element in a sorted array or list.
+It works by repeatedly dividing the search interval in half — this gives it a time complexity of O(log n), which is 
+uch faster than linear search (O(n)).
+"""
+
+# 🚀 How Binary Search Works
+# Start with two pointers:
+left = 0
+right = n - 1
+# Find the middle index:
+mid=(left+right)//2
+"""Compare the target value with arr[mid]:
+
+If equal → found
+If target < arr[mid] → search left half
+If target > arr[mid] → search right half
+
+Continue until left > right."""
+
+# ✅ Example
+# Array must be sorted:
+arr = [2, 5, 8, 12, 16, 23, 38, 56]
+target = 23
+
+# Steps:
+# mid = 3 → arr[3] = 12 → 23 > 12 → search right half
+# mid = 5 → arr[5] = 23 → found 🎉
+
+# 🧠 Python Code (Iterative)
+
+def binary_search(arr, target):
+    left, right = 0, len(arr) - 1
+    while left <= right:
+        mid = (left + right) // 2
+
+        if arr[mid] == target:
+            return mid
+        elif target < arr[mid]:
+            right = mid - 1
+        else:
+            left = mid + 1
+
+    return -1  # not found
+"""
+📌 Time & Space Complexity
+Time: O(log n)
+Space: O(1)
+"""
+# 🎯 When to Use Binary Search
+# Use it when:
+"""The data is sorted
+You need fast lookup"""
+# Not suitable for:
+"""Unsorted data (unless you sort first)
+Linked lists (random access needed)"""
+
+# *************
+
+
+
 """
 ⭐ Built-in Sorting in Python
 1️⃣ sorted(iterable)
@@ -51,7 +114,10 @@ Comparison-based	        Uses < or > to compare elements
 Time Complexity	            How fast the algorithm works
 """
 
-🔥 Most Popular Sorting Algorithms
+#
+#*******🔥 Most Popular Sorting Algorithms*******
+#
+
 
 #################################################################
 ####Below are the main sorting algorithms used in interviews.####
