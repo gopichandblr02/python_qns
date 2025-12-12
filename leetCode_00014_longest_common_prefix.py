@@ -12,3 +12,4 @@ class Solution:
 strs = ["flower","flow","flight"]
 sol = Solution()
 print(sol.func(strs))
+# fl

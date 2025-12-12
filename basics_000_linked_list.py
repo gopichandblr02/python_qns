@@ -1,15 +1,26 @@
 """
-A linked list is a linear data structure composed of a sequence of nodes, where each node contains data and a reference
+A linked list is a linear data structure composed of a **sequence of nodes**, where each node contains data and a reference
 (or "pointer") to the next node in the sequence.
 Unlike Python's built-in list type (which is a dynamic array), linked lists do not store elements in contiguous memory
 locations, making them more efficient for insertions and deletions at the beginning of the list.
+"""
+
+# A Python list stores elements in contiguous (back-to-back) memory.
+# [10][20][30][40]
+# Because elements are in a straight block of memory:
+# ✖ Insert/delete at the beginning is expensive
+# If you insert at index 0:
+# insert 5 →   [5][10][20][30][40]
+# ALL elements must be shifted one place → O(n) time.
+# Same for deleting the first item.
+
+"""
 Key Concepts
 Node: The basic building block of a linked list. Each node typically has two parts: the data (the value it stores) and a
  next pointer (a reference to the next node in the list).
 Head: The first node in the linked list. The entire list can be accessed by starting at the head and following the next pointers.
 Traversal: The process of visiting each node in the linked list, typically starting from the head and moving from one
 node to the next until the end is reached (where the next pointer is None).
-
 """
 
 """✅ Linked List in Python — Methods & Explanations
@@ -57,7 +68,6 @@ class Node:
         self.data = data
         self.next = None
 
-
 class LinkedList:
     def __init__(self):
         self.head = None
@@ -76,9 +86,10 @@ def append(self, data):
         temp = temp.next         # Go to last node
     temp.next = new_node         # Add new node at end
 
-
 # ✔ Time: O(n)
 # ✔ Why: Must traverse to end.
+
+
 # 2️⃣ prepend(value) — Insert at front
 # Use: Add element at beginning.
 
@@ -87,8 +98,7 @@ def prepend(self, data):
     new_node.next = self.head  # Point new node to old head
     self.head = new_node       # Update head
 
-
-✔ Time: O(1)
+# ✔ Time: O(1)
 
 # 3️⃣ insert(index, value) — Insert at specific position
 # Use: Insert anywhere in list.
@@ -136,10 +146,10 @@ def delete(self, key):
 
     prev.next = temp.next         # Bypass deleted node
 
+# ✔ Time: O(n)
 
-✔ Time: O(n)
+# 5️⃣ search(value) — Find if value exists
 
-5️⃣ search(value) — Find if value exists
 def search(self, key):
     temp = self.head
     while temp:
@@ -148,10 +158,9 @@ def search(self, key):
         temp = temp.next
     return False
 
+# ✔ Time: O(n)
 
-✔ Time: O(n)
-
-6️⃣ reverse() — Reverse linked list
+# 6️⃣ reverse() — Reverse linked list
 def reverse(self):
     prev = None
     curr = self.head
@@ -164,11 +173,10 @@ def reverse(self):
 
     self.head = prev
 
+# ✔ Time: O(n)
+# ✔ Space: O(1)
 
-✔ Time: O(n)
-✔ Space: O(1)
-
-7️⃣ length() — Count nodes
+# 7️⃣ length() — Count nodes
 def length(self):
     count = 0
     temp = self.head
@@ -177,10 +185,9 @@ def length(self):
         temp = temp.next
     return count
 
+# ✔ Time: O(n)
 
-✔ Time: O(n)
-
-8️⃣ to_list() — Convert to Python list
+# 8️⃣ to_list() — Convert to Python list
 def to_list(self):
     arr = []
     temp = self.head
@@ -190,9 +197,9 @@ def to_list(self):
     return arr
 
 
-✔ Useful for debugging and testing.
-
-9️⃣ display() — Print linked list
+# ✔ Useful for debugging and testing.
+#
+# 9️⃣ display() — Print linked list
 def display(self):
     temp = self.head
     while temp:
@@ -200,15 +207,14 @@ def display(self):
         temp = temp.next
     print("None")
 
-📦 Complete LinkedList Class
+# 📦 Complete LinkedList Class
 
-Here is everything together:
+# Here is everything together:
 
 class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-
 
 class LinkedList:
     def __init__(self):
@@ -299,7 +305,6 @@ class LinkedList:
         print("None")
 
 
-
 """Below are clean, clear, fully working Python implementations of:
 ✔️ Singly Linked List
 ✔️ Doubly Linked List
@@ -323,7 +328,6 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-
 
 class SinglyLinkedList:
     def __init__(self):

@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_66_plus_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_basics_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_00069_square_root.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read_000_core_vs_advanced_DS_BigO.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn_000_core_vs_advanced_DS_BigO.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read_001_general_basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn_002_general_basics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read_002_DE_system_design.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn_00_DE_system_design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read_003_tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn_003_tips.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms_0000_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_010_algorithms_introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms_0001_search_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_011_algorithms_search_intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms_00020_quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_013_algorithms_quick_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms_00021_merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_014_algorithms_merge_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms_0002_sort_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_012_algorithms_sort_intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_0000_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_000_linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_regex.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn_001_python_regex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strAlgorithms_001_reverse_words_in_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_005_strAlgorithms_reverse_words_in_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics_000_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_000_linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00001_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/d_leetCode_00001_two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00003_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/d_leetCode_00003_longest_str_non_rpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00014_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00014_longest_common_prefix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +82,13 @@
     "Python.leet47_palindrom_number.executor": "Run",
     "Python.leet7_max_sub_array.executor": "Run",
     "Python.leetCode_00002_add_two_nums.executor": "Run",
+    "Python.leetCode_00014_longest_common_prefix.executor": "Run",
     "Python.leetCode_000169_majority_element.executor": "Run",
     "Python.leetCode_00027_remove_element.executor": "Run",
     "Python.leetCode_00027_remove_element_all_occur.executor": "Debug",
     "Python.leetCode_00028_first_index_first_occur.executor": "Run",
+    "Python.leetCode_00066_plus_one.executor": "Debug",
+    "Python.leetCode_00069_square_root.executor": "Run",
     "Python.leetCode_00392_is_subsequence.executor": "Run",
     "Python.leetCode_169_majority_element.executor": "Debug",
     "Python.leetCode_189_rotate_array_by_k.executor": "Run",
@@ -133,8 +129,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetCode_66_plus_one">
-    <configuration name="basics_0012_regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leetCode_00069_square_root">
+    <configuration name="leetCode_00014_longest_common_prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +143,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics_0012_regex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00014_longest_common_prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetCode_00066_plus_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00066_plus_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetCode_00069_square_root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00069_square_root.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,50 +210,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00392_is_subsequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="leetCode_66_plus_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_66_plus_one.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regex_practise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/regex_practise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetCode_66_plus_one" />
+        <item itemvalue="Python.leetCode_00069_square_root" />
+        <item itemvalue="Python.leetCode_00014_longest_common_prefix" />
+        <item itemvalue="Python.leetCode_00066_plus_one" />
         <item itemvalue="Python.leetCode_00392_is_subsequence" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.regex_practise" />
-        <item itemvalue="Python.basics_0012_regex" />
       </list>
     </recent_temporary>
   </component>
@@ -414,6 +410,16 @@
           <url>file://$PROJECT_DIR$/leetCode_00392_is_subsequence.py</url>
           <line>6</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode_00066_plus_one.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode_00069_square_root.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
