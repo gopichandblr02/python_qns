@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_000209_Minimum_Size_Subarray_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_000209_Minimum_Size_Subarray_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_000209_Minimum_Size_Subarray_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00209_min_size_subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00209_min_size_subarray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
     "Python.leetCode_00002_add_two_nums.executor": "Run",
     "Python.leetCode_00014_longest_common_prefix.executor": "Run",
     "Python.leetCode_000169_majority_element.executor": "Run",
-    "Python.leetCode_000209_Minimum_Size_Subarray_Sum.executor": "Debug",
+    "Python.leetCode_000209_Minimum_Size_Subarray_Sum.executor": "Run",
     "Python.leetCode_00027_remove_element.executor": "Run",
     "Python.leetCode_00027_remove_element_all_occur.executor": "Debug",
     "Python.leetCode_00028_first_index_first_occur.executor": "Run",
@@ -427,7 +427,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetCode_000209_Minimum_Size_Subarray_Sum.py</url>
-          <line>7</line>
+          <line>38</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>

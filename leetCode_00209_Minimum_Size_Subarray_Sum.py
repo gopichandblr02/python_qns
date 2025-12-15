@@ -1,3 +1,27 @@
+"""✅ LeetCode 209: Minimum Size Subarray Sum
+Problem
+
+Given an array nums of positive integers and an integer target,
+return the minimum length of a contiguous subarray such that:
+    Example:
+    Input: s = 7, nums = [2,3,1,2,4,3]
+    Output: 2
+"""
+
+"""
+Not for this solution
+TIP:
+| Operation  | Time Complexity | Space Complexity |
+| ---------- | --------------- | ---------------- |
+| `len(arr)` | **O(1)**        | **O(1)**         |
+
+✅ Why len(arr) is O(1) in Python
+In Python, built-in containers like:
+list,tuple,dict,set,str -> store their length internally.
+Python simply reads a stored integer value — it does not loop through the array.
+"""
+
+
 class Solution:
     def mySol(self, target, nums):
         final_len = float('inf')
