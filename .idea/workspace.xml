@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leetCode_0000_duplicate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00069_square_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00069_square_root_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +125,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetCode_00069_square_root">
+  <component name="RunManager" selected="Python.leetCode_00069_square_root_4">
     <configuration name="leetCode_00014_longest_common_prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -168,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_00069_square_root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetCode_00069_square_root_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00069_square_root.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00069_square_root_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +238,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetCode_00069_square_root" />
+        <item itemvalue="Python.leetCode_00069_square_root_4" />
         <item itemvalue="Python.leetCode_00014_longest_common_prefix" />
         <item itemvalue="Python.leetCode_00066_plus_one" />
         <item itemvalue="Python.leetCode_00392_is_subsequence" />
@@ -411,7 +413,7 @@
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00069_square_root.py</url>
+          <url>file://$PROJECT_DIR$/leetCode_00069_square_root_4.py</url>
           <line>5</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
