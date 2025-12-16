@@ -191,3 +191,51 @@ Level Order	Queue (BFS)
 Compare Trees	Recursive pair check
 Invert / Mirror	Swap children
 """
+
+
+print("*************")
+
+class RootNode:
+    def __init__(self,val,left=None,right=None):
+        self.val=val
+        self.left=left
+        self.right=right
+
+def in_order(root):
+    if not root:
+        return
+    in_order(root.left)
+    print(root.val,end=" ")
+    in_order(root.right)
+
+def pre_order(root):
+    if not root:
+        return
+    print(root.val,end=" ")
+    pre_order(root.left)
+    pre_order(root.right)
+
+def post_order(root):
+    if not root:
+        return
+    post_order(root.left)
+    post_order(root.right)
+    print(root.val,end=" ")
+
+
+# Tree structure:
+#       2
+#      / \
+#     3   4
+
+root = RootNode(2)
+root.left = RootNode(3)
+root.right = RootNode(4)
+in_order(root)
+print("\n")
+pre_order(root)
+print("\n")
+post_order(root)
+# print(root)
+# print(root.val,root.left,root.right)
+
