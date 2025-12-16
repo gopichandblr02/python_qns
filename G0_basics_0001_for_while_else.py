@@ -1,10 +1,10 @@
 # Below is a clear, interview-oriented explanation of:
 """
-for loop
-while loop
-(Python’s alternative to do-while)
-for-else
-while-else
+- for loop
+- while loop
+- (Python’s alternative to do-while)
+- for-else
+- while-else
 """
 
 # 1️⃣ for loop
@@ -28,11 +28,9 @@ for n in nums:
 for x in []:
     print(x)
 print("Done")
-
 # Output
 #
 # Done
-
 
 # ✔ Loop body never executes
 # 2️⃣ while loop
@@ -50,11 +48,9 @@ while i < 3:
     print(i)
 print("Done")
 
-
 # Output
 #
 # Done
-
 
 # ✔ Body never executes
 # 🔹 Infinite loop (common bug ⚠️)
@@ -62,9 +58,8 @@ i = 0
 while i < 3:
     print(i)
     # i += 1  ❌ missing
-
-
 # ✔ Runs forever
+
 # 3️⃣ do-while loop (Not directly in Python ❌)
 # Python does NOT have a native do-while loop.
 # ✅ Python workaround (runs at least once)
