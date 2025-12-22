@@ -135,13 +135,15 @@ print("x is greater than 5")  # ❌ Wrong indentation
 """
 
 # Using multiple else
+"""
 x = 5
 if x > 0:
     print("Positive")
 else:
     print("Zero")  # ✅ Correct
-# else:
-#     print("Negative")  # ❌ Error: cannot have 2 else
+else:
+    print("Negative")  # ❌ Error: cannot have 2 else
+"""
 
 aa=200
 if aa>5:
@@ -154,7 +156,10 @@ elif aa>65:
     print("y4")
 else:
     print("y5")
-
+# output
+# y1
+# y2
+# y3
 
 """
 
