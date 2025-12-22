@@ -128,10 +128,11 @@ else:
 
 # 9. Common mistakes
 # Indentation errors
-
+"""
 x = 10
 if x > 5:
-    print("x is greater than 5")  # ❌ Wrong indentation
+print("x is greater than 5")  # ❌ Wrong indentation
+"""
 
 # Using multiple else
 
