@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +91,7 @@
     "Python.leetCode_00069_square_root.executor": "Run",
     "Python.leetCode_00167_two_sum_sorted_inp.executor": "Run",
     "Python.leetCode_00392_is_subsequence.executor": "Run",
+    "Python.leetCode_00523_continuous_sub_array.executor": "Run",
     "Python.leetCode_169_majority_element.executor": "Debug",
     "Python.leetCode_189_rotate_array_by_k.executor": "Run",
     "Python.leetCode_209_min_size_subarray.executor": "Debug",
@@ -100,7 +104,7 @@
     "Python.practise.executor": "Debug",
     "Python.prime_practise.executor": "Debug",
     "Python.regex_practise.executor": "Run",
-    "Python.scratch.executor": "Run",
+    "Python.scratch.executor": "Debug",
     "Python.scratch_1.executor": "Debug",
     "Python.simple_qns.executor": "Debug",
     "Python.sortAlgorithms_0000_basics_intro.executor": "Debug",
@@ -128,7 +132,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.G0_basics_0000_if_else">
+  <component name="RunManager" selected="Python.leetCode_00523_continuous_sub_array">
     <configuration name="G0_basics_0000_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -173,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G4_leetCode_00014_longest_common_prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetCode_00523_continuous_sub_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,7 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G4_leetCode_00014_longest_common_prefix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="G6_leetCode_00121_stock_prices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G6_leetCode_00121_stock_prices.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leetCode_00523_continuous_sub_array" />
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.G0_basics_0000_if_else" />
         <item itemvalue="Python.G0_basics_0002_binary_tree_problems" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.G6_leetCode_00121_stock_prices" />
-        <item itemvalue="Python.G4_leetCode_00014_longest_common_prefix" />
       </list>
     </recent_temporary>
   </component>
@@ -429,6 +433,26 @@
           <url>file://$PROJECT_DIR$/leetCode_00209_Minimum_Size_Subarray_Sum.py</url>
           <line>43</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
