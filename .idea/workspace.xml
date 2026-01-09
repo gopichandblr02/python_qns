@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode_00290_word_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_00026_remove_dups_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_00202_happy_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_205_isometric_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_00205_isometric_strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,98 +44,122 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.G0_basics_0000_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.G0_basics_binary_tree_problems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.G6_leetCode_00121_stock_prices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.algorithms_0000_introduction.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.arrAlgorithms_001_max_sub_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_002_max_sub_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_003_missing_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_Kth_smallest_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrAlgorithms_004_rotate_by_k.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.arrAlgorithms_006_leaders_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics005_word_freq.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.basics_0012_regex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_001_binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_002_first_occr_in_duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_011_min_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_geeks_for_geeks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.c001_array_max_sub_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e1_get_second_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e2_third _lar_distinct.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e3_reverse_an_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gopi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet1002_find_common_characters.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leet1047_remove_adjacent_dup_chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet10_reverse_integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet12_move_zeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet17_product_of_array_except_self.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet1_two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet2_stock_prices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet31_next_permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet3_3sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet47_palindrom_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet7_max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00002_add_two_nums.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00014_longest_common_prefix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_000169_majority_element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_000209_Minimum_Size_Subarray_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00027_remove_element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00027_remove_element_all_occur.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_00028_first_index_first_occur.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00058_lenght_last_word.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00066_plus_one.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_00069_square_root.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00167_two_sum_sorted_inp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00290_word_pattern.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_00392_is_subsequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_00523_continuous_sub_array.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_169_majority_element.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_189_rotate_array_by_k.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_205_isometric_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_209_min_size_subarray.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.leetCode_268_missing_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leetCode_66_plus_one.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leet_longest_str_non_rpt.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.max_sub_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_missing_is_prime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.others_004_prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practise.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.prime_practise.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.regex_practise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.scratch_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.simple_qns.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sortAlgorithms_0000_basics_intro.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sortAlgorithms_001_quick_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortAlgorithms_002_merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_001_reverse_words_in_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strAlgorithms_002_distinct_sub_strings.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.string_without_repeatiing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gopichandjangili/Desktop/Python/python_qns&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.G0_basics_0000_if_else.executor": "Run",
+    "Python.G0_basics_binary_tree_problems.executor": "Run",
+    "Python.G6_leetCode_00121_stock_prices.executor": "Run",
+    "Python.algorithms_0000_introduction.executor": "Debug",
+    "Python.arrAlgorithms_001_max_sub_sum.executor": "Run",
+    "Python.arrAlgorithms_002_max_sub_product.executor": "Run",
+    "Python.arrAlgorithms_003_missing_num.executor": "Run",
+    "Python.arrAlgorithms_004_Kth_smallest_largest.executor": "Run",
+    "Python.arrAlgorithms_004_rotate_by_k.executor": "Debug",
+    "Python.arrAlgorithms_006_leaders_in_array.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.basics005_word_freq.executor": "Debug",
+    "Python.basics_0012_regex.executor": "Run",
+    "Python.basics_001_binary_search.executor": "Run",
+    "Python.basics_002_first_occr_in_duplicates.executor": "Run",
+    "Python.basics_011_min_sub_array.executor": "Run",
+    "Python.basics_geeks_for_geeks.executor": "Run",
+    "Python.basics_recursion.executor": "Run",
+    "Python.c001_array_max_sub_sum.executor": "Run",
+    "Python.e1_get_second_largest.executor": "Run",
+    "Python.e2_third _lar_distinct.executor": "Run",
+    "Python.e3_reverse_an_array.executor": "Run",
+    "Python.gopi.executor": "Run",
+    "Python.leet1002_find_common_characters.executor": "Debug",
+    "Python.leet1047_remove_adjacent_dup_chars.executor": "Run",
+    "Python.leet10_reverse_integer.executor": "Run",
+    "Python.leet12_move_zeros.executor": "Run",
+    "Python.leet17_product_of_array_except_self.executor": "Run",
+    "Python.leet1_two_sum.executor": "Run",
+    "Python.leet2_stock_prices.executor": "Run",
+    "Python.leet31_next_permutation.executor": "Run",
+    "Python.leet3_3sum.executor": "Run",
+    "Python.leet47_palindrom_number.executor": "Run",
+    "Python.leet7_max_sub_array.executor": "Run",
+    "Python.leetCode_00002_add_two_nums.executor": "Run",
+    "Python.leetCode_00014_longest_common_prefix.executor": "Run",
+    "Python.leetCode_000169_majority_element.executor": "Run",
+    "Python.leetCode_000209_Minimum_Size_Subarray_Sum.executor": "Run",
+    "Python.leetCode_00027_remove_element.executor": "Run",
+    "Python.leetCode_00027_remove_element_all_occur.executor": "Debug",
+    "Python.leetCode_00028_first_index_first_occur.executor": "Run",
+    "Python.leetCode_00058_lenght_last_word.executor": "Run",
+    "Python.leetCode_00066_plus_one.executor": "Debug",
+    "Python.leetCode_00069_square_root.executor": "Run",
+    "Python.leetCode_00167_two_sum_sorted_inp.executor": "Run",
+    "Python.leetCode_00202_happy_number.executor": "Run",
+    "Python.leetCode_00290_word_pattern.executor": "Run",
+    "Python.leetCode_00392_is_subsequence.executor": "Run",
+    "Python.leetCode_00523_continuous_sub_array.executor": "Debug",
+    "Python.leetCode_169_majority_element.executor": "Debug",
+    "Python.leetCode_189_rotate_array_by_k.executor": "Run",
+    "Python.leetCode_205_isometric_strings.executor": "Run",
+    "Python.leetCode_209_min_size_subarray.executor": "Debug",
+    "Python.leetCode_268_missing_num.executor": "Run",
+    "Python.leetCode_66_plus_one.executor": "Run",
+    "Python.leet_longest_str_non_rpt.executor": "Debug",
+    "Python.max_sub_array.executor": "Run",
+    "Python.others_004_missing_is_prime.executor": "Run",
+    "Python.others_004_prime_number.executor": "Run",
+    "Python.practise.executor": "Debug",
+    "Python.prime_practise.executor": "Debug",
+    "Python.regex_practise.executor": "Run",
+    "Python.scratch.executor": "Debug",
+    "Python.scratch_1.executor": "Debug",
+    "Python.simple_qns.executor": "Debug",
+    "Python.sortAlgorithms_0000_basics_intro.executor": "Debug",
+    "Python.sortAlgorithms_001_quick_sort.executor": "Run",
+    "Python.sortAlgorithms_002_merge_sort.executor": "Run",
+    "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
+    "Python.strAlgorithms_002_distinct_sub_strings.executor": "Debug",
+    "Python.string_without_repeatiing.executor": "Run",
+    "Python.test.executor": "Debug",
+    "Python.test2.executor": "Run",
+    "Python.two_sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns",
+    "settings.editor.selected.configurable": "preferences.editor"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetCode_00290_word_pattern">
+  <component name="RunManager" selected="Python.test2">
+    <configuration name="leetCode_00202_happy_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00202_happy_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="leetCode_00205_isometric_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -180,50 +204,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_00523_continuous_sub_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -246,13 +226,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.leetCode_00202_happy_number" />
         <item itemvalue="Python.leetCode_00290_word_pattern" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.leetCode_00205_isometric_strings" />
-        <item itemvalue="Python.leetCode_00523_continuous_sub_array" />
-        <item itemvalue="Python.scratch" />
       </list>
     </recent_temporary>
   </component>
