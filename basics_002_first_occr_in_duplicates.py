@@ -2,7 +2,7 @@
 class Solution:
 
     def first_occurrence(self, nums, target):
-
+        pass
         
 
 

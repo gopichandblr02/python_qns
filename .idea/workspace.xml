@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Binary/01_binary_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000100_same_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000104_max_depth_binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrAlgorithms_004_Kth_smallest_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/geeks_00004_Kth_smallest_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrAlgorithms_006_leaders_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/geeks_00001_leaders_in_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_binary_basics.executor": "Run",
     "Python.G0_basics_0000_if_else.executor": "Run",
     "Python.G0_basics_binary_tree_problems.executor": "Run",
     "Python.G6_leetCode_00121_stock_prices.executor": "Run",
@@ -134,7 +143,29 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetCode_00088_merge_sorted_array">
+  <component name="RunManager" selected="Python.01_binary_basics">
+    <configuration name="01_binary_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary/01_binary_basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="leetCode_00088_merge_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -201,28 +232,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -247,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetCode_00088_merge_sorted_array" />
+        <item itemvalue="Python.01_binary_basics" />
         <item itemvalue="Python.test2" />
+        <item itemvalue="Python.leetCode_00088_merge_sorted_array" />
         <item itemvalue="Python.leetCode_00202_happy_number" />
         <item itemvalue="Python.leetCode_00290_word_pattern" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +291,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/arrAlgorithms_006_leaders_in_array.py</url>
+          <url>file://$PROJECT_DIR$/geeks_00001_leaders_in_array.py</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
