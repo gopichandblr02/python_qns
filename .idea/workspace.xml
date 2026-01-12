@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary/01_binary_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000100_same_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000104_max_depth_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Closures/01_inner_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Closures/02_nested_closures_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_binary/101_symmetric_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrAlgorithms_004_Kth_smallest_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/geeks_00004_Kth_smallest_largest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrAlgorithms_006_leaders_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/geeks_00001_leaders_in_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_002_first_occr_in_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000100_same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_binary/100_same_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000104_max_depth_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_binary/104_max_depth_binary_tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +73,7 @@
     "Python.e2_third _lar_distinct.executor": "Run",
     "Python.e3_reverse_an_array.executor": "Run",
     "Python.gopi.executor": "Run",
+    "Python.inner_functions.executor": "Run",
     "Python.leet1002_find_common_characters.executor": "Debug",
     "Python.leet1047_remove_adjacent_dup_chars.executor": "Run",
     "Python.leet10_reverse_integer.executor": "Run",
@@ -141,9 +141,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Binary" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_binary_basics">
+  <component name="RunManager" selected="Python.01_inner_functions">
     <configuration name="01_binary_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -158,6 +159,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary/01_binary_basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_inner_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Closures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Closures/01_inner_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,28 +233,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetCode_00290_word_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode_00290_word_pattern.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -256,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_inner_functions" />
         <item itemvalue="Python.01_binary_basics" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.leetCode_00088_merge_sorted_array" />
         <item itemvalue="Python.leetCode_00202_happy_number" />
-        <item itemvalue="Python.leetCode_00290_word_pattern" />
       </list>
     </recent_temporary>
   </component>
