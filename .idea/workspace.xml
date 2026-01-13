@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Closures/01_inner_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Closures/02_nested_closures_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode_binary/101_symmetric_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_binary/222_count_complete_tree_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode_binary/226_invert_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000100_same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_binary/100_same_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCodeSolutions/leetCode_000104_max_depth_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_binary/104_max_depth_binary_tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
