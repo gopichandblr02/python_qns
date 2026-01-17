@@ -1,9 +1,11 @@
 # 🔹 What is a Generator in Python?
 
-"""A generator is a special type of function that returns an iterator and produces values one at a time using the yield
+"""
+A generator is a special type of function that returns an iterator and produces values one at a time using the yield
 keyword instead of return.
 It pauses execution, remembers its state, and resumes from where it left off.
-Normal Function vs Generator"""
+Normal Function vs Generator
+"""
 
 def normal():
     return 1
@@ -18,10 +20,12 @@ def gen():
 # ➡ Produces values one by one.
 
 # 🔹 How Generator Works (Execution Flow)
-"""Call generator()  → returns generator object
+"""
+Call generator()  → returns generator object
 next() called     → runs till yield
 State saved
-next() again      → resumes after yield"""
+next() again      → resumes after yield
+"""
 
 # 🔹 Example
 def numbers():
@@ -97,10 +101,11 @@ next(g)
 
 
 # Output:
-
-"""Start
+"""
+Start
 Middle
-End"""
+End
+"""
 
 # 🔹 Generator with return
 def test():
@@ -186,7 +191,6 @@ class MyIter:
 
 
 # Generator does same with:
-
 def mygen():
     for i in range(1,5):
         yield i
@@ -221,7 +225,6 @@ for v in even(square(read())):
 """
 
 # 🔹 Generator Pitfalls
-
 """
 Cannot rewind
 Single iteration
@@ -230,14 +233,12 @@ Cannot access by index
 """
 
 # 🔹 When NOT to Use Generator
-
 """
 When you need random access
 When data must be reused
 When dataset is small
 """
 # 🔹 Generator in Interview
-
 """
 Q: Why generators are faster?
 A: They avoid memory allocation and use lazy evaluation.
