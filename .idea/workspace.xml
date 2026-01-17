@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hashmap_leetCode/242_valid_anagram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G1_leetCode_00001_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/01_two_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G2_leetCode_00003_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode/3_longest_str_non_rpt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G5_leetCode_00049_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/49_group_anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_0012_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regex/01_regex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00015_three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/15_three_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00047_palindrom_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/125_Valid_Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00167_two_sum_sorted_inp.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/167_two_sum_sorted_inp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00205_isometric_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/205_isometric_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00209_Minimum_Size_Subarray_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode/209_Minimum_Size_Subarray_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00219_contains_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/219_contains_duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00290_word_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00383_ransom_note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/383_ransom_note.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_00392_is_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/392_is_subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generators/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/generators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
