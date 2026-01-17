@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TwoPointers_leetCode/11_Container_With_Most_Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashmap_leetCode/242_valid_anagram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/container_with_most_water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/G1_leetCode_00001_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/01_two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G2_leetCode_00003_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode/3_longest_str_non_rpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G5_leetCode_00049_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/49_group_anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics_0012_regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regex/01_regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00015_three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/15_three_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00047_palindrom_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/125_Valid_Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00167_two_sum_sorted_inp.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/167_two_sum_sorted_inp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00205_isometric_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/205_isometric_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00209_Minimum_Size_Subarray_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode/209_Minimum_Size_Subarray_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00219_contains_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/219_contains_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00290_word_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00383_ransom_note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode/383_ransom_note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00392_is_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode/392_is_subsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +61,7 @@
     "Python.01_binary_basics.executor": "Run",
     "Python.01_inner_functions.executor": "Run",
     "Python.151_Reverse_Words_in_a_String.executor": "Run",
+    "Python.242_valid_anagram.executor": "Run",
     "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
     "Python.80_remove_dups_sort_arr_2.executor": "Run",
     "Python.G0_basics_0000_if_else.executor": "Run",
@@ -141,35 +154,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Hashmap_leetCode" />
+      <recent name="$PROJECT_DIR$/Regex" />
+      <recent name="$PROJECT_DIR$/SlidingWindow_leetCode" />
+      <recent name="$PROJECT_DIR$/TwoPointers_leetCode" />
       <recent name="$PROJECT_DIR$/Array" />
-      <recent name="$PROJECT_DIR$/Recursion" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Binary" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.80_remove_dups_sort_arr_2 (1)">
-    <configuration name="01_binary_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary/01_binary_basics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.242_valid_anagram">
     <configuration name="01_inner_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -206,6 +198,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/151_Reverse_Words_in_a_String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="242_valid_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashmap_leetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashmap_leetCode/242_valid_anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.242_valid_anagram" />
         <item itemvalue="Python.80_remove_dups_sort_arr_2 (1)" />
         <item itemvalue="Python.80_remove_dups_sort_arr_2" />
         <item itemvalue="Python.151_Reverse_Words_in_a_String" />
         <item itemvalue="Python.01_inner_functions" />
-        <item itemvalue="Python.01_binary_basics" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +434,7 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00392_is_subsequence.py</url>
+          <url>file://$PROJECT_DIR$/TwoPointers_leetCode/392_is_subsequence.py</url>
           <line>6</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
@@ -445,7 +459,7 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00209_Minimum_Size_Subarray_Sum.py</url>
+          <url>file://$PROJECT_DIR$/SlidingWindow_leetCode/209_Minimum_Size_Subarray_Sum.py</url>
           <line>43</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
@@ -465,7 +479,7 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py</url>
           <line>16</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
@@ -475,7 +489,7 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py</url>
           <line>11</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
