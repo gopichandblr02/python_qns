@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/151_Reverse_Words_in_a_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/80_remove_dups_sort_arr_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generators/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoPointers_leetCode/11_Container_With_Most_Water.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Closures/01_inner_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Closures/01_inner_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_003_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/01_recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_004_recursion_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/02_recursion_iteration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/100_same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/100_same_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/101_symmetric_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/101_symmetric_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/104_max_depth_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/104_max_depth_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/112_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/112_path_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/222_count_complete_tree_nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/222_count_complete_tree_nodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_binary/226_invert_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode/226_invert_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container_with_most_water.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +49,7 @@
     "Python.01_binary_basics.executor": "Run",
     "Python.01_inner_functions.executor": "Run",
     "Python.151_Reverse_Words_in_a_String.executor": "Run",
+    "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
     "Python.80_remove_dups_sort_arr_2.executor": "Run",
     "Python.G0_basics_0000_if_else.executor": "Run",
     "Python.G0_basics_binary_tree_problems.executor": "Run",
@@ -150,12 +141,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Array" />
       <recent name="$PROJECT_DIR$/Recursion" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Binary" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.80_remove_dups_sort_arr_2">
+  <component name="RunManager" selected="Python.80_remove_dups_sort_arr_2 (1)">
     <configuration name="01_binary_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -222,6 +214,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="80_remove_dups_sort_arr_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_leetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_leetCode/80_remove_dups_sort_arr_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="80_remove_dups_sort_arr_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -244,35 +258,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.80_remove_dups_sort_arr_2 (1)" />
         <item itemvalue="Python.80_remove_dups_sort_arr_2" />
         <item itemvalue="Python.151_Reverse_Words_in_a_String" />
         <item itemvalue="Python.01_inner_functions" />
         <item itemvalue="Python.01_binary_basics" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
