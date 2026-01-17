@@ -12,7 +12,7 @@ def outer():
     inner()
 
 x = outer()
-print(x)
+print(x) # if we comment this line then only "Hello" will be printed
 print('-----')
 
 # Output
