@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Stack_leetCode/20_valid_paranthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/map_reduce_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_leetCode/71_Simplify_Path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "Python.151_Reverse_Words_in_a_String.executor": "Run",
     "Python.20_valid_paranthesis.executor": "Run",
     "Python.242_valid_anagram.executor": "Run",
+    "Python.71_Simplify_Path.executor": "Run",
     "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
     "Python.80_remove_dups_sort_arr_2.executor": "Run",
     "Python.G0_basics_0000_if_else.executor": "Run",
@@ -151,7 +153,7 @@
       <recent name="$PROJECT_DIR$/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20_valid_paranthesis">
+  <component name="RunManager" selected="Python.71_Simplify_Path">
     <configuration name="20_valid_paranthesis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -196,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="80_remove_dups_sort_arr_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="71_Simplify_Path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_leetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_leetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_leetCode/80_remove_dups_sort_arr_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_leetCode/71_Simplify_Path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.71_Simplify_Path" />
         <item itemvalue="Python.20_valid_paranthesis" />
         <item itemvalue="Python.test3" />
         <item itemvalue="Python.generators" />
         <item itemvalue="Python.242_valid_anagram" />
-        <item itemvalue="Python.80_remove_dups_sort_arr_2 (1)" />
       </list>
     </recent_temporary>
   </component>
