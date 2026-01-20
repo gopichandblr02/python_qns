@@ -1,5 +1,3 @@
-
-
 """1️⃣ Collection
 👉 Meaning
 A collection is any object that can hold multiple elements.
