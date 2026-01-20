@@ -35,14 +35,13 @@ A sequence is an ordered collection that supports:
 # Length
 
 # Sequence types:
-# Type
 # list
 # tuple
 # string
 # range
+
 # Example:
 s = "python"
-
 print(s[0])     # p
 print(s[1:4])   # yth
 
@@ -53,7 +52,6 @@ print(s[1:4])   # yth
 👉 Meaning
 An iterator is an object that produces values one at a time using:
 """
-
 __iter__()
 __next__()
 
@@ -69,7 +67,6 @@ it = iter(nums)
 print(next(it))  # 1
 print(next(it))  # 2
 print(next(it))  # 3
-
 
 # After that:
 next(it)  # StopIteration error
@@ -107,7 +104,6 @@ print(lst[1])   # 20
 
 # But:
 # next(lst)  # ❌ error
-
 
 # Because list is iterable, not iterator.
 # To make it iterator:
@@ -165,7 +161,6 @@ print(next(it)) # works
 print(s[1])     # works
 print(next(it)) # moves forward
 
-
 # Iterator forgets past values.
 # Sequence remembers all values.
 
@@ -173,7 +168,6 @@ print(next(it)) # moves forward
 nums = range(1000000000)
 
 # range stores only formula, not all numbers.
-
 list(nums)  # creates huge memory usage
 
 # 🔹 Interview One-liners
