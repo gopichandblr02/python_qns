@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/128_Longest_Consecutive_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals_leetCode_2/57_Insert_Interval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/14_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/14_longest_common_prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others_leetCode_1/7_reverse_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/7_reverse_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geeks_00001_leaders_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/1_leaders_in_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geeks_00004_Kth_smallest_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/4_Kth_smallest_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00002_add_two_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/2_add_two_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00027_remove_element_all_occur.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/27_remove_element_all_occur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00028_first_index_first_occur.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/28_first_index_first_occur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00031_next_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/31_next_permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00053_max_sub_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/53_max_sub_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00066_plus_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/66_plus_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00069_square_root_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/69_square_root_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00112_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/112_path_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00152_max_sub_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/152_max_sub_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00268_missing_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/268_missing_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00278_first_bad_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/278_first_bad_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00283_move_zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/283_move_zeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/523_continuous_sub_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_01002_find_common_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/1002_find_common_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_01047_remove_adjacent_dup_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode_16/1047_remove_adjacent_dup_chars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,11 +167,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Qns_GeeksForGeeks" />
+      <recent name="$PROJECT_DIR$/Others_leetCode_15" />
+      <recent name="$PROJECT_DIR$/Others_leetCode_1" />
       <recent name="$PROJECT_DIR$/Others_leetCode" />
       <recent name="$PROJECT_DIR$/Array_leetCode_8" />
-      <recent name="$PROJECT_DIR$/Array_leetCode_3" />
-      <recent name="$PROJECT_DIR$/Hashmap_leetCode" />
-      <recent name="$PROJECT_DIR$/Regex" />
     </key>
   </component>
   <component name="RunManager" selected="Python.128_Longest_Consecutive_Sequence">
@@ -303,7 +322,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/geeks_00001_leaders_in_array.py</url>
+          <url>file://$PROJECT_DIR$/Qns_GeeksForGeeks/1_leaders_in_array.py</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -358,7 +377,7 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_01002_find_common_characters.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/1002_find_common_characters.py</url>
           <line>26</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
@@ -378,17 +397,17 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/31_next_permutation.py</url>
           <line>39</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/31_next_permutation.py</url>
           <line>24</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00031_next_permutation.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/31_next_permutation.py</url>
           <line>20</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
@@ -408,7 +427,7 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00027_remove_element_all_occur.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/27_remove_element_all_occur.py</url>
           <line>21</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
@@ -433,12 +452,12 @@
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00066_plus_one.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/66_plus_one.py</url>
           <line>4</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00069_square_root_4.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/69_square_root_4.py</url>
           <line>5</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
@@ -458,7 +477,7 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00523_continuous_sub_array.py</url>
+          <url>file://$PROJECT_DIR$/Others_leetCode_16/523_continuous_sub_array.py</url>
           <line>14</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
@@ -473,7 +492,7 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hashmap_leetCode_8/290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode_9/290_word_pattern.py</url>
           <line>16</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
@@ -483,7 +502,7 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hashmap_leetCode_8/290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode_9/290_word_pattern.py</url>
           <line>11</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
