@@ -89,7 +89,7 @@ print(binary_search_recursive(arr, 8, 0, len(arr)-1))   # Output: 3
 
 
 # ✅ Example
-# Array_leetCode must be sorted:
+# Array_leetCode_9 must be sorted:
 arr = [2, 5, 8, 12, 16, 23, 38, 56]
 target = 23
 

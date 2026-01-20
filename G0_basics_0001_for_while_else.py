@@ -227,7 +227,7 @@ def isPrime(n):
 # Why for-else?
 # ✔ else runs only if loop never breaks (no divisor found)
 
-# 🔹 2. Search an Element in Array_leetCode
+# 🔹 2. Search an Element in Array_leetCode_9
 # (LeetCode 704 – Binary Search logic variant)
 # Code
 
@@ -258,7 +258,7 @@ def allUnique(s):
 
 # Why for-else?
 # ✔ If no duplicate is found, loop finishes normally
-# 🔹 4. Find First Duplicate in Array_leetCode
+# 🔹 4. Find First Duplicate in Array_leetCode_9
 # (Interview / LeetCode variant)
 # Code
 def firstDuplicate(nums):

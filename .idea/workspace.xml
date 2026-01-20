@@ -5,7 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Basics/collections_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/collections_sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode/151_Reverse_Words_in_a_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/151_Reverse_Words_in_a_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode/26_remove_dups_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode/80_remove_dups_sort_arr_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/80_remove_dups_sort_arr_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/100_same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/100_same_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/101_symmetric_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/101_symmetric_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/104_max_depth_binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/104_max_depth_binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/112_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/112_path_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/222_count_complete_tree_nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/222_count_complete_tree_nodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_leetCode/226_invert_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_leetCode_6/226_invert_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G0_basics_0001_for_while_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/G0_basics_0001_for_while_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G3_leetCode_00007_reverse_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others_leetCode/7_reverse_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G4_leetCode_00014_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/14_longest_common_prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G6_leetCode_00121_stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/121_stock_prices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/01_two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/01_two_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/202_happy_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/202_happy_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/205_isometric_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/205_isometric_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/219_contains_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/219_contains_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/242_valid_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/242_valid_anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/290_word_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/383_ransom_note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/383_ransom_note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashmap_leetCode/49_group_anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap_leetCode_8/49_group_anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intervals_leetCode/228_Summary_Ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intervals_leetCode_2/228_Summary_Ranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intervals_leetCode/56_Merge_Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Intervals_leetCode_2/56_Merge_Intervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlidingWindow_leetCode/209_Minimum_Size_Subarray_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode_2/209_Minimum_Size_Subarray_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlidingWindow_leetCode/3_longest_str_non_rpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/SlidingWindow_leetCode_2/3_longest_str_non_rpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_leetCode/150_Evaluate_Reverse_Polish_Notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_leetCode_4/150_Evaluate_Reverse_Polish_Notation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_leetCode/155_min_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_leetCode_4/155_min_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_leetCode/20_valid_paranthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_leetCode_4/20_valid_paranthesis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_leetCode/71_Simplify_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_leetCode_4/71_Simplify_Path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers_leetCode/11_Container_With_Most_Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode_7/11_Container_With_Most_Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers_leetCode/125_Valid_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode_7/125_Valid_Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers_leetCode/15_three_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode_7/15_three_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers_leetCode/167_two_sum_sorted_inp.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode_7/167_two_sum_sorted_inp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers_leetCode/392_is_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/TwoPointers_leetCode_7/392_is_subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_012_algorithms_sort_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_012_algorithms_sort_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00058_lenght_last_word_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/58_lenght_last_word_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00088_merge_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/88_merge_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00169_majority_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/169_majority_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode_00189_rotate_array_by_k.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/189_rotate_array_by_k.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,11 +185,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Array_leetCode_3" />
       <recent name="$PROJECT_DIR$/Hashmap_leetCode" />
       <recent name="$PROJECT_DIR$/Regex" />
       <recent name="$PROJECT_DIR$/SlidingWindow_leetCode" />
       <recent name="$PROJECT_DIR$/TwoPointers_leetCode" />
-      <recent name="$PROJECT_DIR$/Array" />
     </key>
   </component>
   <component name="RunManager" selected="Python.56_Merge_Intervals">
@@ -391,7 +430,7 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00189_rotate_array_by_k.py</url>
+          <url>file://$PROJECT_DIR$/Array_leetCode_9/189_rotate_array_by_k.py</url>
           <line>7</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
@@ -411,7 +450,7 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode_00169_majority_element.py</url>
+          <url>file://$PROJECT_DIR$/Array_leetCode_9/169_majority_element.py</url>
           <line>13</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
@@ -426,7 +465,7 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/TwoPointers_leetCode/392_is_subsequence.py</url>
+          <url>file://$PROJECT_DIR$/TwoPointers_leetCode_7/392_is_subsequence.py</url>
           <line>6</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
@@ -451,7 +490,7 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SlidingWindow_leetCode/209_Minimum_Size_Subarray_Sum.py</url>
+          <url>file://$PROJECT_DIR$/SlidingWindow_leetCode_2/209_Minimum_Size_Subarray_Sum.py</url>
           <line>43</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
@@ -471,7 +510,7 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode_8/290_word_pattern.py</url>
           <line>16</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
@@ -481,17 +520,17 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hashmap_leetCode/290_word_pattern.py</url>
+          <url>file://$PROJECT_DIR$/Hashmap_leetCode_8/290_word_pattern.py</url>
           <line>11</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stack_leetCode/20_valid_paranthesis.py</url>
+          <url>file://$PROJECT_DIR$/Stack_leetCode_4/20_valid_paranthesis.py</url>
           <line>4</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Intervals_leetCode/228_Summary_Ranges.py</url>
+          <url>file://$PROJECT_DIR$/Intervals_leetCode_2/228_Summary_Ranges.py</url>
           <line>5</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
