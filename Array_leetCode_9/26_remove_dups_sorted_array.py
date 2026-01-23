@@ -8,8 +8,21 @@ class Solution:
                 nums[i] = nums[j]
                 i += 1
         return i,nums
+    # test this again on more test cases
+    def removeDuplicates2(self, nums):
+        if not nums:
+            return 0
+        i = 1
+        for j in range(1, len(nums)):
+            if nums[j] != nums[i - 1]:
+                nums[i] = nums[j]
+                i += 1
+        return i,nums
 
 
 sol = Solution()
 print(sol.removeDuplicates([1, 1, 2]))  # Output: 2
 print(sol.removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]))  # Output: 5
+
+print(sol.removeDuplicates2([1, 1, 2]))  # Output: 2
+print(sol.removeDuplicates2([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]))  # Output: 5

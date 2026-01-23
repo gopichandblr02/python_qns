@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/01_gfg_array_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/02_gfg_string_coding_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/Arrays_Easy/second_largest_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_hashing_problems_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_linked_list_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_queue_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_recursion_problems_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_searching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_sliding_window_problems_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_sorting_problems_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_stack_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_two_pointers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +64,7 @@
     "Python.20_valid_paranthesis.executor": "Run",
     "Python.228_Summary_Ranges.executor": "Run",
     "Python.242_valid_anagram.executor": "Run",
+    "Python.26_remove_dups_sorted_array.executor": "Run",
     "Python.56_Merge_Intervals.executor": "Run",
     "Python.71_Simplify_Path.executor": "Run",
     "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
@@ -126,6 +142,7 @@
     "Python.sortAlgorithms_002_merge_sort.executor": "Run",
     "Python.strAlgorithms_001_reverse_words_in_str.executor": "Run",
     "Python.strAlgorithms_002_distinct_sub_strings.executor": "Debug",
+    "Python.string_functions.executor": "Run",
     "Python.string_without_repeatiing.executor": "Run",
     "Python.test.executor": "Debug",
     "Python.test2.executor": "Run",
@@ -134,7 +151,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns",
+    "last_opened_file_path": "/Users/gopichandjangili/Desktop/Python/python_qns/Qns_GeeksForGeeks",
     "settings.editor.selected.configurable": "preferences.editor"
   },
   "keyToStringList": {
@@ -144,6 +161,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Qns_GeeksForGeeks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Qns_GeeksForGeeks" />
       <recent name="$PROJECT_DIR$/Others_leetCode_15" />
@@ -241,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="71_Simplify_Path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_leetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_leetCode/71_Simplify_Path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/string_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,10 +286,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.26_remove_dups_sorted_array" />
+        <item itemvalue="Python.string_functions" />
         <item itemvalue="Python.128_Longest_Consecutive_Sequence" />
         <item itemvalue="Python.56_Merge_Intervals" />
         <item itemvalue="Python.228_Summary_Ranges" />
-        <item itemvalue="Python.71_Simplify_Path" />
       </list>
     </recent_temporary>
   </component>
