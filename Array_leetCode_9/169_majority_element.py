@@ -1,8 +1,4 @@
-nums = [2,2,1,1,1,2,2]
-
-
 class Solution:
-
     # presence of an element increases count
     # Any other element will which has greater count will decrease existing elements count
     # Works on the logic - majority element always exists
@@ -26,11 +22,14 @@ class Solution:
             if freq[n] > len(nums) // 2:
                 return n
 
-
+nums = [2,2,1,1,1,2,2]
+print(Solution().majorityElement(nums))
 print(Solution().majorityElement([3,3,2]))
 print(Solution().majorityElement([3,2,3]))
-print(Solution().majorityElement(nums))
+
 
 print(Solution().majority_Element([3,3,2]))
 print(Solution().majority_Element([3,2,3]))
 print(Solution().majority_Element(nums))
+print("------")
+print(Solution().majority_Element([1,1,2,3,4,5,6,7,8,9]))
