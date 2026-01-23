@@ -5,6 +5,7 @@ class Solution:
 
     def reverseWords(self, s: str) -> str:
         words = s.split()  # removes extra spaces automatically
+        print(words,type(words)) # ['a', 'good', 'example'] <class 'list'>
         words.reverse()
         return " ".join(words)
 
