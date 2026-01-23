@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/01_gfg_array_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/02_gfg_string_coding_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/Arrays_Easy/second_largest_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_hashing_problems_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_linked_list_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_queue_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_recursion_problems_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_searching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_sliding_window_problems_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_sorting_problems_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_stack_solutions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qns_GeeksForGeeks/gfg_two_pointers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/88_merge_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_leetCode_9/88_merge_sorted_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +57,7 @@
     "Python.71_Simplify_Path.executor": "Run",
     "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
     "Python.80_remove_dups_sort_arr_2.executor": "Run",
+    "Python.88_merge_sorted_array.executor": "Run",
     "Python.G0_basics_0000_if_else.executor": "Run",
     "Python.G0_basics_binary_tree_problems.executor": "Run",
     "Python.G6_leetCode_00121_stock_prices.executor": "Run",
@@ -172,7 +161,7 @@
       <recent name="$PROJECT_DIR$/Array_leetCode_8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.26_remove_dups_sorted_array">
+  <component name="RunManager" selected="Python.88_merge_sorted_array">
     <configuration name="128_Longest_Consecutive_Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -187,28 +176,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashmap_leetCode_8/128_Longest_Consecutive_Sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="228_Summary_Ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intervals_leetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intervals_leetCode/228_Summary_Ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,6 +228,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="88_merge_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_leetCode_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_leetCode_9/88_merge_sorted_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="string_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -285,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.88_merge_sorted_array" />
         <item itemvalue="Python.26_remove_dups_sorted_array" />
         <item itemvalue="Python.string_functions" />
         <item itemvalue="Python.128_Longest_Consecutive_Sequence" />
         <item itemvalue="Python.56_Merge_Intervals" />
-        <item itemvalue="Python.228_Summary_Ranges" />
       </list>
     </recent_temporary>
   </component>
