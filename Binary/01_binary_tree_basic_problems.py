@@ -1,4 +1,8 @@
 # ✅ 1. Binary Tree Node Definition (Used in All Problems)
+"""
+
+"""
+
 class TreeNode:
     def __init__(self, val):
         self.val = val
@@ -45,24 +49,40 @@ def height(root):
         return 0
     return 1 + max(height(root.left), height(root.right))
 
+root = TreeNode(1)
+root.left = TreeNode(2)
+root.right = TreeNode(3)
+root.left.left = TreeNode(4)
+root.left.right = TreeNode(5)
+# root.right.right = TreeNode(6)
+print("Height of the tree:", height(root))  # Output: Height of the tree: 3
+
 # ✅ 4. Diameter of Binary Tree
 # (Number of nodes on the longest path between any two nodes)
+"""
+        1
+       / \
+      2   3
+     / \
+    4   5
+4 → 2 → 5   (or 4 → 2 → 1 → 3)
+Diameter = 3 (edges)
 
+🔹 Key Insight (Interview Gold ✨)
+At every node:
+diameter = left_height + right_height
+"""
+# Short answer: it’s a nested function, not a closure
 def diameter(root):
     diameter_val = [0]
-
     def dfs(node):
         if not node:
             return 0
-
         left = dfs(node.left)
         right = dfs(node.right)
-
         # path through this node
         diameter_val[0] = max(diameter_val[0], left + right)
-
         return 1 + max(left, right)
-
     dfs(root)
     return diameter_val[0]
 
