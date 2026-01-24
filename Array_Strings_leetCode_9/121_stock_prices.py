@@ -11,4 +11,4 @@ class Solution:
 
 arr=[7,1,5,3,6,4]
 sol = Solution()
-print(sol.maxProfit(arr))  # 5
+print(sol.maxProfit(arr))  # 5   (6-1)

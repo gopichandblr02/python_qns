@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/122_Best_Time_Buy_Sell_Stock_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/714_Best_Time_Buy_Sell Stock_Trans_Fee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_leetCode_6/110_hieght_balanced_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary/01_binary_tree_basic_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary/01_binary_tree_basic_problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/121_stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/121_stock_prices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/14_longest_common_prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/14_longest_common_prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/151_Reverse_Words_in_a_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/151_Reverse_Words_in_a_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/169_majority_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/169_majority_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/189_rotate_array_by_k.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/189_rotate_array_by_k.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/26_remove_dups_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/58_length_last_word_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/58_length_last_word_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/80_remove_dups_sort_arr_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/80_remove_dups_sort_arr_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_leetCode_9/88_merge_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array_Strings_leetCode_9/88_merge_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G0_basics_0001_for_while_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/G0_basics_0001_for_while_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_012_algorithms_sort_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_012_algorithms_sort_intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +60,8 @@
   "keyToString": {
     "Python.01_binary_basics.executor": "Run",
     "Python.01_inner_functions.executor": "Run",
+    "Python.104_max_depth_binary_tree.executor": "Run",
+    "Python.121_stock_prices.executor": "Run",
     "Python.128_Longest_Consecutive_Sequence.executor": "Run",
     "Python.151_Reverse_Words_in_a_String.executor": "Run",
     "Python.169_majority_element.executor": "Run",
@@ -162,7 +177,7 @@
       <recent name="$PROJECT_DIR$/Others_leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.104_max_depth_binary_tree">
+  <component name="RunManager" selected="Python.121_stock_prices">
     <configuration name="104_max_depth_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -177,6 +192,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_leetCode_6/104_max_depth_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="121_stock_prices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_Strings_leetCode_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_Strings_leetCode_9/121_stock_prices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,28 +266,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="26_remove_dups_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_leetCode_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_leetCode_9/26_remove_dups_sorted_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="88_merge_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -275,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.121_stock_prices" />
         <item itemvalue="Python.104_max_depth_binary_tree" />
         <item itemvalue="Python.169_majority_element" />
         <item itemvalue="Python.151_Reverse_Words_in_a_String" />
         <item itemvalue="Python.88_merge_sorted_array" />
-        <item itemvalue="Python.26_remove_dups_sorted_array" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +415,7 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Array_leetCode_9/189_rotate_array_by_k.py</url>
+          <url>file://$PROJECT_DIR$/Array_Strings_leetCode_9/189_rotate_array_by_k.py</url>
           <line>7</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
@@ -420,7 +435,7 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Array_leetCode_9/169_majority_element.py</url>
+          <url>file://$PROJECT_DIR$/Array_Strings_leetCode_9/169_majority_element.py</url>
           <line>13</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
