@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,11 +152,11 @@
       <recent name="$PROJECT_DIR$/Qns_GeeksForGeeks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Binary" />
       <recent name="$PROJECT_DIR$/Qns_GeeksForGeeks" />
       <recent name="$PROJECT_DIR$/Others_leetCode_15" />
       <recent name="$PROJECT_DIR$/Others_leetCode_1" />
       <recent name="$PROJECT_DIR$/Others_leetCode" />
-      <recent name="$PROJECT_DIR$/Array_leetCode_8" />
     </key>
   </component>
   <component name="RunManager" selected="Python.169_majority_element">

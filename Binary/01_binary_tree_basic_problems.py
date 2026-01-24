@@ -1,17 +1,26 @@
 # ✅ 1. Binary Tree Node Definition (Used in All Problems)
-
-class Node:
+class TreeNode:
     def __init__(self, val):
         self.val = val
         self.left = None
         self.right = None
 
 # ✅ 2. Count Nodes in a Binary Tree
-
 def count_nodes(root):
     if not root:
         return 0
-    return 1 + count_nodes(root.left) + count_nodes(root.right)
+    return 1+count_nodes(root.left)+count_nodes(root.right)
+
+root_obj = TreeNode(10)
+root_obj.left = TreeNode(20)
+root_obj.right = TreeNode(30)
+print(root_obj.val)
+print(root_obj.left.val)
+print(root_obj.right.val)
+# 10
+# 20
+# 30
+print(count_nodes(root_obj))   # 3
 
 """
       1
