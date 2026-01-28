@@ -12,10 +12,10 @@ class Solution:
         n=len(cost)
         curr=0
         for i in range(2,n):
-            curr=cost[i]+min(prev1,prev2)
+            curr=cost[i]+min(prev1,prev2)    # We are calculating current step cost
             prev1=prev2
             prev2=curr
-        return min(prev1,prev2)
+        return min(prev1,prev2)               # Return min of current step and previous step
 
 
 # Example usage:
@@ -23,3 +23,4 @@ if __name__ == "__main__":
     solution = Solution()
     cost = [10, 15, 20]
     print(f"Minimum cost to climb stairs: {solution.minCostClimbingStairs(cost)}") #15
+    print(f"Minimum cost to climb stairs: {solution.minCostClimbingStairs([10,15,20,100])}") #30

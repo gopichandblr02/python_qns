@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1D_DP/213_robbing_houses_circular.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1D_DP/322_Coin_Change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1D_DP/ND_139_Word_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1D_DP_leetCode/ND_322_Coin_Change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/198_House_Robber.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/213_robbing_houses_circular.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/213_robbing_houses_circular.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/70_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/70_Climbing_Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/746_Min_Cost_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/ND_139_Word_Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/ND_139_Word_Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP/ND_322_Coin_Change.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP/fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +68,7 @@
     "Python.70_Climbing_Stairs.executor": "Run",
     "Python.714_Best_Time_Buy_Sell Stock_Trans_Fee.executor": "Run",
     "Python.71_Simplify_Path.executor": "Run",
+    "Python.746_Min_Cost_Climbing_Stairs (1).executor": "Run",
     "Python.746_Min_Cost_Climbing_Stairs.executor": "Run",
     "Python.80_remove_dups_sort_arr_2 (1).executor": "Run",
     "Python.80_remove_dups_sort_arr_2.executor": "Run",
@@ -90,6 +95,7 @@
     "Python.e1_get_second_largest.executor": "Run",
     "Python.e2_third _lar_distinct.executor": "Run",
     "Python.e3_reverse_an_array.executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.generators.executor": "Run",
     "Python.gopi.executor": "Run",
     "Python.inner_functions.executor": "Run",
@@ -171,7 +177,7 @@
       <recent name="$PROJECT_DIR$/Others_leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.213_robbing_houses_circular">
+  <component name="RunManager" selected="Python.746_Min_Cost_Climbing_Stairs (1)">
     <configuration name="198_House_Robber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -238,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="714_Best_Time_Buy_Sell Stock_Trans_Fee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="746_Min_Cost_Climbing_Stairs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array_Strings_leetCode_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1D_DP_leetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array_Strings_leetCode_9/714_Best_Time_Buy_Sell Stock_Trans_Fee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="746_Min_Cost_Climbing_Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +279,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP/746_Min_Cost_Climbing_Stairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.746_Min_Cost_Climbing_Stairs (1)" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.70_Climbing_Stairs" />
         <item itemvalue="Python.213_robbing_houses_circular" />
         <item itemvalue="Python.198_House_Robber" />
-        <item itemvalue="Python.746_Min_Cost_Climbing_Stairs" />
-        <item itemvalue="Python.70_Climbing_Stairs" />
-        <item itemvalue="Python.714_Best_Time_Buy_Sell Stock_Trans_Fee" />
       </list>
     </recent_temporary>
   </component>
