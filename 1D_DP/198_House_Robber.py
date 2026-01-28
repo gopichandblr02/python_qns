@@ -1,5 +1,3 @@
-
-
 class Solution:
     def rob(self, nums):
         nums_len=len(nums)
