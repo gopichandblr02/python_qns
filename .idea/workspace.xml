@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1D_DP_leetCode/ND_322_Coin_Change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/198_House_Robber.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/213_robbing_houses_circular.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/213_robbing_houses_circular.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/70_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/70_Climbing_Stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/746_Min_Cost_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/ND_139_Word_Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/ND_139_Word_Break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP/ND_322_Coin_Change.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +53,7 @@
     "Python.128_Longest_Consecutive_Sequence.executor": "Run",
     "Python.151_Reverse_Words_in_a_String.executor": "Run",
     "Python.169_majority_element.executor": "Run",
+    "Python.198_House_Robber (1).executor": "Run",
     "Python.198_House_Robber.executor": "Run",
     "Python.20_valid_paranthesis.executor": "Run",
     "Python.213_robbing_houses_circular.executor": "Run",
@@ -177,8 +173,8 @@
       <recent name="$PROJECT_DIR$/Others_leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.746_Min_Cost_Climbing_Stairs (1)">
-    <configuration name="198_House_Robber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.198_House_Robber (1)">
+    <configuration name="198_House_Robber (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1D_DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1D_DP_leetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP/198_House_Robber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.198_House_Robber (1)" />
         <item itemvalue="Python.746_Min_Cost_Climbing_Stairs (1)" />
         <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.70_Climbing_Stairs" />
         <item itemvalue="Python.213_robbing_houses_circular" />
-        <item itemvalue="Python.198_House_Robber" />
       </list>
     </recent_temporary>
   </component>
