@@ -13,7 +13,7 @@ class Solution:
         return self.arr[-self.k:]+self.arr[:-self.k]
 
     """
-    ✅ Rotate Array_Strings_leetCode_9 — Optimal In-Place Solution
+    ✅ Rotate Array_Strings_leetCode_11 — Optimal In-Place Solution
     ✔ Time: O(n)
     ✔ Space: O(1) (no extra array)
     If LeetCode asks for O(1) extra space, you must use the reverse method instead.
