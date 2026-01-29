@@ -3,6 +3,7 @@ class Solution:
         self.arr=arr
         self.k=k
     """
+    For the below solution - rotate()
     Total time = O(k) + O(n−k) + O(n) = O(n)
     creates a brand-new list that contains all n elements, so additional space is:
     O(n) extra space.
@@ -13,6 +14,7 @@ class Solution:
         return self.arr[-self.k:]+self.arr[:-self.k]
 
     """
+    For the below solution - rotate_new()
     ✅ Rotate Array_Strings_leetCode_11 — Optimal In-Place Solution
     ✔ Time: O(n)
     ✔ Space: O(1) (no extra array)
