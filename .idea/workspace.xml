@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BinarySearch_leetCode/35_Search_Insert_Position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch_leetCode/74_Search_a 2D_Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/198_House_Robber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1D_DP_leetCode/746_Min_Cost_Climbing_Stairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Python.228_Summary_Ranges.executor": "Run",
     "Python.242_valid_anagram.executor": "Run",
     "Python.26_remove_dups_sorted_array.executor": "Run",
+    "Python.35_Search_Insert_Position.executor": "Run",
     "Python.56_Merge_Intervals.executor": "Run",
     "Python.70_Climbing_Stairs.executor": "Run",
     "Python.714_Best_Time_Buy_Sell Stock_Trans_Fee.executor": "Run",
@@ -173,7 +174,7 @@
       <recent name="$PROJECT_DIR$/Others_leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.198_House_Robber (1)">
+  <component name="RunManager" selected="Python.test2">
     <configuration name="198_House_Robber (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -196,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="213_robbing_houses_circular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="35_Search_Insert_Position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,33 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1D_DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch_leetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP/213_robbing_houses_circular.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="70_Climbing_Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1D_DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1D_DP/70_Climbing_Stairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch_leetCode/35_Search_Insert_Position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,13 +263,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.35_Search_Insert_Position" />
         <item itemvalue="Python.198_House_Robber (1)" />
         <item itemvalue="Python.746_Min_Cost_Climbing_Stairs (1)" />
         <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.70_Climbing_Stairs" />
-        <item itemvalue="Python.213_robbing_houses_circular" />
       </list>
     </recent_temporary>
   </component>
