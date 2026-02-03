@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Math_leetCode_1/172_Factorial_Trailing_Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Math_leetCode_1/50_Pow(x, n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch_leetCode_3/34_First_and_Last_Sorted_Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/172_Factorial_Trailing_Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/172_Factorial_Trailing_Zeroes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/50_Pow(x, n).py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/50_Pow(x, n).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/66_Plus_One.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/66_Plus_One.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/9_Palindrome_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/9_Palindrome_Number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +67,7 @@
     "Python.242_valid_anagram.executor": "Run",
     "Python.26_remove_dups_sorted_array.executor": "Run",
     "Python.35_Search_Insert_Position.executor": "Run",
+    "Python.50_Pow(x, n).executor": "Run",
     "Python.56_Merge_Intervals.executor": "Run",
     "Python.66_Plus_One.executor": "Run",
     "Python.70_Climbing_Stairs.executor": "Run",
