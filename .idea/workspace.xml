@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1df2f6-7e85-4d3d-9ce1-48ab86eb3a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch_leetCode_3/34_First_and_Last_Sorted_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap/01_heap_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap_leetCode_/215_Kth_Largest_Element_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/matrix_transpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix_leetCode/36_Valid_Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix_leetCode/48_Rotate_Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix_leetCode/ND_54_Spiral_Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/172_Factorial_Trailing_Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/172_Factorial_Trailing_Zeroes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/50_Pow(x, n).py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/50_Pow(x, n).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/66_Plus_One.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/66_Plus_One.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math_leetCode_1/9_Palindrome_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math_leetCode_4/9_Palindrome_Number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "Python.01_basics_reverse.executor": "Run",
     "Python.01_binary_basics.executor": "Run",
+    "Python.01_heap_basics.executor": "Run",
     "Python.01_inner_functions.executor": "Run",
     "Python.104_max_depth_binary_tree.executor": "Run",
     "Python.121_stock_prices.executor": "Run",
@@ -63,10 +65,12 @@
     "Python.198_House_Robber.executor": "Run",
     "Python.20_valid_paranthesis.executor": "Run",
     "Python.213_robbing_houses_circular.executor": "Run",
+    "Python.215_Kth_Largest_Element_Array.executor": "Run",
     "Python.228_Summary_Ranges.executor": "Run",
     "Python.242_valid_anagram.executor": "Run",
     "Python.26_remove_dups_sorted_array.executor": "Run",
     "Python.35_Search_Insert_Position.executor": "Run",
+    "Python.36_Valid_Sudoku.executor": "Run",
     "Python.50_Pow(x, n).executor": "Run",
     "Python.56_Merge_Intervals.executor": "Run",
     "Python.66_Plus_One.executor": "Run",
@@ -184,8 +188,8 @@
       <recent name="$PROJECT_DIR$/Others_leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.50_Pow(x, n)">
-    <configuration name="01_basics_reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.36_Valid_Sudoku">
+    <configuration name="01_heap_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/01_basics_reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap/01_heap_basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,6 +233,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="215_Kth_Largest_Element_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heap_leetCode_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap_leetCode_/215_Kth_Largest_Element_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="36_Valid_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrix_leetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix_leetCode/36_Valid_Sudoku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="50_Pow(x, n)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -251,57 +299,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="66_Plus_One" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math_leetCode_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math_leetCode_1/66_Plus_One.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9_Palindrome_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math_leetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math_leetCode/9_Palindrome_Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.36_Valid_Sudoku" />
+        <item itemvalue="Python.01_heap_basics" />
+        <item itemvalue="Python.215_Kth_Largest_Element_Array" />
         <item itemvalue="Python.50_Pow(x, n)" />
         <item itemvalue="Python.172_Factorial_Trailing_Zeroes" />
-        <item itemvalue="Python.66_Plus_One" />
-        <item itemvalue="Python.01_basics_reverse" />
-        <item itemvalue="Python.9_Palindrome_Number" />
       </list>
     </recent_temporary>
   </component>
