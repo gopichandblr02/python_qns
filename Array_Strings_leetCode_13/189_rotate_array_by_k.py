@@ -15,7 +15,7 @@ class Solution:
 
     """
     For the below solution - rotate_new()
-    ✅ Rotate Array_Strings_leetCode_11 — Optimal In-Place Solution
+    ✅ Rotate Array_Strings_leetCode_13 — Optimal In-Place Solution
     ✔ Time: O(n)
     ✔ Space: O(1) (no extra array)
     If LeetCode asks for O(1) extra space, you must use the reverse method instead.
